@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Tokugawa Shogunate",
+    "leaderName": "Tokugawa Ieyasu",
+    "adjective": ["Tokugawa"],
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 215, 0],
+    "spyNames": ["Mariko", "Anjin"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Cultural",
+    "startIntroPart1": "The Tokugawa Shogunate welcomes you. Our strength lies in our unity and culture.",
+    "startIntroPart2": "Isolation is the name of the game.",
+    "introduction": "We are the Tokugawa Shogunate, guardians of Japan's tradition and strength.",
+    "declaringWar": "Prepare to face the wrath of the samurai!",
+    "attacked": "You dare challenge the Shogunate?",
+    "afterPeace": "Peace is restored. Let us prosper together.",
+    "defeated": "Our honor remains, even in defeat. The Tokugawa Shogunate will rise again.",
+    "neutralHello": "Greetings.",
+    "hateHello": "What is it now?",
+    "tradeRequest": "The Shogunate offers you this trade. Consider it wisely.",
+    "neutralLetsHearIt": "Speak your mind.",
+    "hateLetsHearIt": "Speak!",
+    "neutralNo": "We refuse.",
+    "neutralYes": "Agreed.",
+    "hateNo": "Absolutely not!",
+    "hateYes": "Very well.",
+    "uniqueName": "Isolationism",
+    "uniques": [
+      "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+      "[+1 Culture] [in all cities]",
+      "[-90]% Gold from Great Merchant trade missions"
+    ],
+    "cities": [
+      "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo",
+      "Kagoshima", "Nagasaki", "Nara", "Fukuoka", "Shizuoka", "Kobe", "Sendai",
+      "Yokohama", "Hakodate", "Okayama", "Matsue", "Kochi", "Niigata", "Toyama",
+      "Takamatsu", "Fukui", "Matsuyama", "Utsunomiya", "Tsu", "Oita", "Kumamoto",
+      "Akita", "Miyazaki", "Saga", "Kofu", "Mito", "Yamagata"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dojo",
+    "replaces": "Armory",
+    "requiredTech": "Steel",
+    "cost": 150,
+    "maintenance": 1,
+    "happiness": 2,
+    "culture": 2,
+    "uniqueTo": "Tokugawa Shogunate",
+    "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+  },
+  {
+    "name": "Geisha House",
+    "replaces": "Amphitheater",
+    "requiredTech": "Drama and Poetry",
+    "cost": 90,
+    "maintenance": 1,
+    "happiness": 3,
+    "culture": 4,
+    "uniqueTo": "Tokugawa Shogunate"
+  }
+]

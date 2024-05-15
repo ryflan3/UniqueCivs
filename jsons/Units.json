@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samurai",
+    "unitType": "Sword",
+    "replaces": "Longswordsman",
+    "movement": 2,
+    "strength": 24,
+    "cost": 100,
+    "requiredResource": "Iron",
+    "requiredTech": "Steel",
+    "obsoleteTech": "Rifling",
+    "upgradesTo": "Rifleman",
+    "uniqueTo": "Tokugawa Shogunate",
+    "uniques": ["Can move after attacking"]
+    "promotions": ["Shock I", "Great Generals II"],
+  }
+]
