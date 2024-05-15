@@ -38,4 +38,43 @@
       "Akita", "Miyazaki", "Saga", "Kofu", "Mito", "Yamagata"
     ]
   }
+  {
+    "name": "Sparta",
+    "leaderName": "King Leonidas",
+    "adjective": ["Sparta"],
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 215, 0],
+    "spyNames": ["Cleomenis", "Cynisca"],
+    "startBias": ["Avoid [Tundra]"],["Avoid [Coast]"],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "Sparta greets you. Our strength lies in our warriors and discipline.",
+    "startIntroPart2": "We embrace the challenges of the battlefield.",
+    "introduction": "We are Sparta, the guardians of Greece and champions of freedom.",
+    "declaringWar": "Prepare to face the might of the Spartan army!",
+    "attacked": "You dare challenge Sparta?",
+    "afterPeace": "Peace is restored. Let us build our strength together.",
+    "defeated": "Our honor remains, even in defeat. Sparta will rise again.",
+    "neutralHello": "Greetings.",
+    "hateHello": "What is it now?",
+    "tradeRequest": "Sparta offers you this trade. Consider it wisely.",
+    "neutralLetsHearIt": "Speak your mind.",
+    "hateLetsHearIt": "Speak!",
+    "neutralNo": "We refuse.",
+    "neutralYes": "Agreed.",
+    "hateNo": "Absolutely not!",
+    "hateYes": "Very well."
+    "uniqueName": "Isolationism",
+    "uniques": [
+      "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+      "[+2 Production] [in all cities]",
+      "[Great Scientist] is earned [50]% slower"],
+    ],
+    "cities": [
+    "Sparta", "Amyclae", "Gythium", "Helos", "Sellasia", "Therapne", 
+    "Las", "Aegys", "Oetylus", "Thalamai", "Cardamyle", "Pellana", 
+    "Pharai", "Geronthrai", "Boiai", "Brasiai", "Tegea", "Mantineia", 
+    "Megalopolis", "Messenia", "Pylos", "Lepreum", "Andania", 
+    "Methone", "Epidauros Limera", "Caryae", "Tegai", "Asine", 
+    "Thyrea", "Cynouria", "Gytheio", "Karyes", "Sellasia"
+]
 ]
