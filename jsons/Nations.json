@@ -37,7 +37,7 @@
       "Takamatsu", "Fukui", "Matsuyama", "Utsunomiya", "Tsu", "Oita", "Kumamoto",
       "Akita", "Miyazaki", "Saga", "Kofu", "Mito", "Yamagata"
     ]
-  }
+  },
   {
     "name": "Sparta",
     "leaderName": "King Leonidas",
@@ -45,7 +45,7 @@
     "outerColor": [0, 0, 0],
     "innerColor": [139, 0, 0],
     "spyNames": ["Cleomenis", "Cynisca"],
-    "startBias": ["Avoid [Tundra]"],["Avoid [Coast]"],
+    "startBias": ["Avoid [Tundra]", "Avoid [Coast]"],
     "preferredVictoryType": "Domination",
     "startIntroPart1": "Sparta greets you. Our strength lies in our warriors and discipline.",
     "startIntroPart2": "We embrace the challenges of the battlefield.",
@@ -62,20 +62,19 @@
     "neutralNo": "We refuse.",
     "neutralYes": "Agreed.",
     "hateNo": "Absolutely not!",
-    "hateYes": "Very well."
-    "uniqueName": "Isolationism",
+    "hateYes": "Very well.",
     "uniques": [
       "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
       "[+2 Production] [in all cities]",
       "[Great Scientist] is earned [50]% slower"
     ],
     "cities": [
-    "Sparta", "Amyclae", "Gythium", "Helos", "Sellasia", "Therapne", 
-    "Las", "Aegys", "Oetylus", "Thalamai", "Cardamyle", "Pellana", 
-    "Pharai", "Geronthrai", "Boiai", "Brasiai", "Tegea", "Mantineia", 
-    "Megalopolis", "Messenia", "Pylos", "Lepreum", "Andania", 
-    "Methone", "Epidauros Limera", "Caryae", "Tegai", "Asine", 
-    "Thyrea", "Cynouria", "Gytheio", "Karyes", "Sellasia"
-]
-    }
+      "Sparta", "Amyclae", "Gythium", "Helos", "Sellasia", "Therapne", 
+      "Las", "Aegys", "Oetylus", "Thalamai", "Cardamyle", "Pellana", 
+      "Pharai", "Geronthrai", "Boiai", "Brasiai", "Tegea", "Mantineia", 
+      "Megalopolis", "Messenia", "Pylos", "Lepreum", "Andania", 
+      "Methone", "Epidauros Limera", "Caryae", "Tegai", "Asine", 
+      "Thyrea", "Cynouria", "Gytheio", "Karyes", "Sellasia"
+    ]
+  }
 ]
