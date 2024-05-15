@@ -43,7 +43,7 @@
     "leaderName": "King Leonidas",
     "adjective": ["Sparta"],
     "outerColor": [0, 0, 0],
-    "innerColor": [255, 215, 0],
+    "innerColor": [139, 0, 0],
     "spyNames": ["Cleomenis", "Cynisca"],
     "startBias": ["Avoid [Tundra]"],["Avoid [Coast]"],
     "preferredVictoryType": "Domination",
@@ -77,4 +77,5 @@
     "Methone", "Epidauros Limera", "Caryae", "Tegai", "Asine", 
     "Thyrea", "Cynouria", "Gytheio", "Karyes", "Sellasia"
 ]
+    }
 ]
