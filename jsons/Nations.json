@@ -66,7 +66,7 @@
     "uniques": [
       "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
       "[+2 Production] [in all cities]",
-      "[Great Scientist] is earned [50]% slower"
+      "[50]% City-State Influence degradation",
     ],
     "cities": [
       "Sparta", "Amyclae", "Gythium", "Helos", "Sellasia", "Therapne", 
