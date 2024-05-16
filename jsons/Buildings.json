@@ -19,5 +19,14 @@
     "happiness": 3,
     "culture": 4,
     "uniqueTo": "Tokugawa Shogunate"
-  }
+  },
+   {
+    "name": "Spartan Barracks",
+    "replaces": "Barracks",
+    "uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
+    "requiredTech": "Bronze Working",
+    "maintenance": 3,
+    "culture": 2,
+    "uniqueTo": "Sparta"
+     }
 ]
