@@ -13,5 +13,19 @@
     "uniqueTo": "Tokugawa Shogunate",
     "uniques": ["Can move after attacking"]
     "promotions": ["Shock I", "Great Generals II"],
+  },
+  {
+		"name": "Hoplite",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Sparta",
+		"movement": 2,
+		"strength": 17,
+		"cost": 58,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
   }
 ]
