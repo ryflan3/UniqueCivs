@@ -29,7 +29,7 @@
       "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
       "[+1 Culture] [in all cities]",
       "[-90]% Gold from Great Merchant trade missions",
-      "[-60]% Gold from each trade route"
+      "[-3 Gold] from each Trade Route",
     ],
     "cities": [
       "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo",
