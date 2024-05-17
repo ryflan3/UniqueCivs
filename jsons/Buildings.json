@@ -28,5 +28,17 @@
     "maintenance": 3,
     "culture": 2,
     "uniqueTo": "Sparta"
-     }
+     },
+  {
+    "name": "Palace of the Popes",
+    "replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 2,
+		"gold": 6,
+		"culture": 3,
+    "faith": 3,
+		"cityStrength": 2,
+		"cost": 2,
+		"uniques": ["Indicates the capital city", ["May buy [Cathedral] buildings with [Faith]"]
 ]
