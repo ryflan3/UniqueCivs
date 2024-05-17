@@ -8,7 +8,7 @@
     "happiness": 2,
     "culture": 2,
     "uniqueTo": "Tokugawa Shogunate",
-    "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+    "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"]
   },
   {
     "name": "Geisha House",
@@ -20,7 +20,7 @@
     "culture": 4,
     "uniqueTo": "Tokugawa Shogunate"
   },
-   {
+  {
     "name": "Spartan Barracks",
     "replaces": "Barracks",
     "uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
@@ -28,19 +28,19 @@
     "maintenance": 3,
     "culture": 2,
     "uniqueTo": "Sparta"
-     },
+  },
   {
     "name": "Palace of the Popes",
     "replaces": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 2,
-		"gold": 6,
-		"culture": 3,
-                "faith": 3,
-		"cityStrength": 2,
-	 	"cost": 2,
-	  	"uniqueTo": "House of Borgia"
-		"uniques": ["Indicates the capital city"], ["May buy [Cathedral] buildings with [Faith]"]
+    "isNationalWonder": true,
+    "production": 3,
+    "science": 2,
+    "gold": 6,
+    "culture": 3,
+    "faith": 3,
+    "cityStrength": 2,
+    "cost": 2,
+    "uniqueTo": "House of Borgia",
+    "uniques": ["Indicates the capital city", "May buy [Cathedral] buildings with [Faith]"]
   }
 ]
