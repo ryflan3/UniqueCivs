@@ -108,7 +108,6 @@
       "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+15] XP"],
       "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
       "[+25]% Unhappiness from [Population] [in all cities]"],
-    ]
     "cities": ["Rome", "Valencia", "Vatican City", "Naples", "Ferrara", "Cesena", "Forlì", "Rimini", "Pesaro", "Spoleto", "Faenza", "Imola", "Viterbo", "Siena", "Urbino",]
     
   },
