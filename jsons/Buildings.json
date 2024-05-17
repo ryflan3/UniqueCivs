@@ -41,6 +41,6 @@
 		"cityStrength": 2,
 	 	"cost": 2,
 	  	"uniqueTo": "House of Borgia"
-		"uniques": ["Indicates the capital city", ["May buy [Cathedral] buildings with [Faith]"]
+		"uniques": ["Indicates the capital city"], ["May buy [Cathedral] buildings with [Faith]"]
   }
 ]
