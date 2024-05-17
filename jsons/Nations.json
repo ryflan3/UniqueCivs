@@ -67,7 +67,7 @@
     "uniques": [
       "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
       "[+2 Production] [in all cities]",
-      "[50]% City-State Influence degradation",
+      "[+50]% City-State Influence degradation",
     ],
     "cities": [
       "Sparta", "Amyclae", "Gythium", "Helos", "Sellasia", "Therapne", 
