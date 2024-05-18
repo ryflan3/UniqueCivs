@@ -44,13 +44,14 @@
     "uniques": ["Indicates the capital city", "[+10]% [Faith] [in all cities]"]
   },
 {
-  "name": "Circus Maximus",
-  "replaces": "Circus Maximus",
-  "cost": 125,
-  "happiness": 6,
-  "culture": 3,
-  "isNationalWonder": true,
-  "uniques": ["Only available if [Colosseum] is constructed in all [non-[Puppeted]] cities", "Cost increases by [20] per owned city", "Destroyed when the city is captured", "Free Social Policy"],
+	"name": "Circus Maximus",
+	"maintenance": 3,
+	"happiness": 4,
+  "culture": 1,
+  "gold": 2,
+	"hurryCostModifier": 50,
+	"requiredTech": "Construction"
+  "uniques": ["Cost increases by [10] per owned city", "Destroyed when the city is captured"],
   "requiredTech": "Horseback Riding"
 }
 ]
