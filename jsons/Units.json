@@ -56,5 +56,21 @@
 	    "Takes your religion over the one in their birth city"],
 		"movement": 3,
 		"religiousStrength": 1500
-	}
+	},
+	{
+		"name": "Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 19,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles", "[+1] Movement"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
