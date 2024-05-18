@@ -46,6 +46,7 @@
 {
 	"name": "Circus Maximus",
 	"replaces": "Colosseum",
+	"uniqueTo": "Rome"
 	"maintenance": 3,
 	"happiness": 4,
         "culture": 2,
