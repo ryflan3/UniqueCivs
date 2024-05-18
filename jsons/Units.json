@@ -72,5 +72,21 @@
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles", "[+1] Movement"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Ballista",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "Rome",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 12,
+		"cost": 80,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
 	}
 ]
