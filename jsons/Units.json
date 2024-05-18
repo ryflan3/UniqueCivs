@@ -72,5 +72,5 @@
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles", "[+1] Movement"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-	},
+	}
 ]
