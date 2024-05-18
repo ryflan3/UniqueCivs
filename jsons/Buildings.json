@@ -44,13 +44,12 @@
     "uniques": ["Indicates the capital city", "[+10]% [Faith] [in all cities]"]
   },
  {
-  "name": "Praetorium",
-  "replaces": "Courthouse",
-  "maintenance": 5,
-  "happiness": 3,
-  "culture": 1,
-  "hurryCostModifier": 40,
-  "uniques": ["Remove extra unhappiness from annexed cities", "Can only be built in [Annexed] cities"],
-  "requiredTech": "Mathematics"
-}
+		"name": "Circus Maximus",
+		"cost": 125,
+		"happiness": 6,
+		"culture": 3,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [20] per owned city","Destroyed when the city is captured", ["Free Social Policy"],
+		"requiredTech": "Horseback Riding"
+	}
 ]
