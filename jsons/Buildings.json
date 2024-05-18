@@ -42,5 +42,16 @@
     "cost": 2,
     "uniqueTo": "House of Borgia",
     "uniques": ["Indicates the capital city", "[+10]% [Faith] [in all cities]"]
+  },
+  {
+  "name": "Praetorium",
+    "replaces": "Courthouse",
+		"maintenance": 5,
+    "happiness": 3,
+    "culture": 1,
+		"hurryCostModifier": 40,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+		"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
   }
 ]
