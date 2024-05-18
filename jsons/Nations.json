@@ -3,6 +3,7 @@
     "name": "Tokugawa Shogunate",
     "leaderName": "Tokugawa Ieyasu",
     "adjective": ["Tokugawa"],
+    "replaces": "Japan",
     "outerColor": [0, 0, 0],
     "innerColor": [255, 215, 0],
     "spyNames": ["Mariko", "Anjin"],
