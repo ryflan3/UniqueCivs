@@ -45,10 +45,10 @@
   },
 {
 	"name": "Circus Maximus",
+	"replaces": "Colosseum",
 	"maintenance": 3,
 	"happiness": 4,
-  "culture": 1,
-  "gold": 2,
+        "culture": 2,
 	"hurryCostModifier": 50,
 	"requiredTech": "Construction"
   "uniques": ["Cost increases by [10] per owned city", "Destroyed when the city is captured"],
