@@ -87,7 +87,7 @@
     "innerColor": [178, 34, 34],
     "spyNames": ["Cesare", "Giovanni", "Lucretia"],
     "startBias": ["Plains"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Diplomatic",
     "startIntroPart1": "The House of Borgia welcomes you. Our strength lies in our influence and ambition.",
     "startIntroPart2": "Power and prestige are our pursuits.",
     "introduction": "We are the Borgias, masters of intrigue and the guardians of our legacy.",
@@ -201,6 +201,38 @@
 			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
 			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"],
         "spyNames": ["Jørgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
+    },
+{
+		"name": "Greece",
+		"leaderName": "Alexander",
+		"adjective": ["Greek"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "Great King Alexander, leader of the mighty Greek nation, you are truly blessed by the gods. In 480 BC, quarrelsome city-states such as Athens, Sparta, Thebes, found a way to join their forces, allowing Greece to defeat the mighty Persia in the 5th century BC, both on land and sea. Following their example, you lead a Greek coalition and finally struck down the Persian Empire in 331 BC. You conquered almost all the known world, and from Europe to Africa to India, you built an empire unmatched by any before it.",
+		"startIntroPart2": "Megalexandros, son of Zeus, will you ride Bucephalas again, to gift the world with the brightness of the Greek culture? Will your new empire shine through the ages of history?",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [65, 141, 254],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Hellenic League",
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "Allied City-States provide [Science] equal to [15]% of what they produce for themselves", "Allied City-States provide [Gold] equal to [15]% of what they produce for themselves","Allied City-States provide [Food] equal to [15]% of what they produce for themselves","[+10]% Unhappiness from [Population] [in all occupied cities]"],
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
     }
 ]
 
