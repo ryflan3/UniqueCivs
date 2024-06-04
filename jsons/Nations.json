@@ -162,12 +162,45 @@
   "innerColor": [255, 0, 0],
   "uniqueName": "Pirates Code",
   "uniques": [
-    "[+1] Movement <for [Water] units>","[+10]% Strength <for [Water] units>", "No movement cost to pillage <for [All] units>", "Earn [60]% of the damage done to [City] units as [Gold]", "Upon capturing a city, receive [10] times its [Gold] production as [Gold] immediately","[-10]% Strength <for [Land] units>","Cannot build [Settler] units"],
+    "[+1] Movement <for [Water] units>","[+10]% Strength <for [Water] units>", "No movement cost to pillage <for [All] units>", "Upon capturing a city, receive [10] times its [Gold] production as [Gold] immediately","[-10]% Strength <for [Land] units>","Cannot build [Settler] units"],
   "cities": [
     "Guangzhou", "Hong Kong", "Macau", "Fuzhou", "Shantou", "Xiamen", "Quanzhou", "Zhanjiang", "Haikou", "Zhuhai",
     "Yantai", "Dalian", "Ningbo", "Wenzhou", "Jiangmen", "Beihai", "Shenzhen", "Sanya", "Zhongshan", "Huizhou"
   ],
   "spyNames": ["Zheng Bao", "Cheung Po Tsai", "Shi Xianggu", "Mo Guanfu", "Liang Wenkan", "Cai Qian", "Huang Yigui", "Fan Wenzhao", "Yang Yandi", "Hong Qi"]
-}
+},
+  {
+		"name": "Norseman Vikings",
+		"leaderName": "Ragnar Lothbrok",
+		"adjective": ["Norse"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+  "startIntroPart1": "Skål, Ragnar Lothbrok, legendary warrior and scourge of the seas! Your fame spreads across the lands of the North and beyond, carried by the winds of your countless conquests. With your cunning and ferocity, you led daring raids on the shores of England and France, striking fear into the hearts of kings and peasants alike. Your sons, Ivar the Boneless, Bjorn Ironside, and others, follow in your footsteps, ensuring your legacy endures.",
+  "startIntroPart2": "O mighty Ragnar, the gods smile upon your deeds. The time has come to unleash the fury of the Northmen once more and carve your name into the annals of history. Will your saga end in glorious triumph, or will you feast in Valhalla with the brave who fell before you? The fate of your new empire rests in your hands!",
+  
+  "declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the skalds will sing of your valor... or mine!",
+  "attacked": "Ahahah! You seem to show some skills of a true Viking! Too bad that I'll probably kill you!",
+  "defeated": "Loki must have stood by you, for a common man alone could not have defeated me... Oh well! I will join the einherjar in Valhalla and feast, while you toil away here.",
+  "introduction": "Ragnar Lothbrok greets you! A Viking of unmatched renown across the seas and lands! Do you tremble before me?",
+  "neutralHello": "Hail, traveler.",
+  "hateHello": "What do you want, wretch?",
+  "tradeRequest": "A fair offer! Even a drunken fool would see the wisdom in this trade!"
+
+
+
+    "outerColor": [30,58,95],
+    "innerColor": [212,175,55],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Viking Fury",
+		"uniques": ["[+2] Movement <for [Embarked] units>", "[0] Movement point cost to disembark <for [All] units>",
+			"No movement cost to pillage <for [All] units>","[+10]% Strength <for [Water] units>","Earn [60]% of the damage done to [City] units as [Gold]","[{Military}] units gain the [Amphibious] promotion","[-10]% [Food] [in all cities]"],
+		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Oslo","Jelling","Truso",
+			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
+			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
+			"Fredrikstad","Kolding","Horsens","Tromsoe","Vejle","Koge","Sandnes","Holstebro","Slagelse","Drammen",
+			"Hillerod","Sonderborg","Skien","Svendborg","Holbaek","Hjorring","Fladstrand","Haderslev","Ringsted","Skrive"],
+        "spyNames": ["Jørgen", "Mette", "Henrik", "Niels", "Helle", "Frederik", "Ida", "Thea", "Freja", "Morten"]
+    }
 ]
 
