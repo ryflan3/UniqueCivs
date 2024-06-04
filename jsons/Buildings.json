@@ -127,7 +127,7 @@
 		"isNationalWonder": true
 	},
 	{
-		"name": "Ceilidh Hall",
+		"name": "Highland Hall",
 		"replaces": "Opera House",
 		"uniqueTo": "Scottish Clans",
 		"culture": 5,
@@ -138,5 +138,42 @@
 		"maintenance": 2,
 		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured","[+5]% [Culture] [in capital]"]
+	},
+	{
+		"name": "Wall Street",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "America",
+		"gold": 5,
+		"happiness": 1,
+		"percentStatBonus": {"gold": 35},
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Bank",
+		"requiredTech": "Electricity"
+	},
+	{
+	        "name": "Silicon Valley",
+		"replaces": "Research Lab",
+		"uniqueTo": "America",
+		"science": 6,
+		"percentStatBonus": {"science": 60},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+		"requiredTech": "Plastics"
+	},
+	{
+		"name": "Smithsonian",
+		"replaces": "Museum",
+		"uniqueTo": "America",
+		"culture": 6,
+		"percentStatBonus": {"culture": 15},
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured"]
 	}
+		
 ]
