@@ -88,5 +88,21 @@
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
+	},
+	{
+		"name": "Junk Ship",
+		"unitType": "Ranged Water",
+		"replaces": "Frigate",
+		"uniqueTo": "Red Flag Pirate Confederation",
+		"movement": 6,
+		"strength": 32,
+		"rangedStrength": 37,
+		"cost": 185,
+		"uniques": ["[+1] Sight","Can move after attacking","Double movement in [Coast]"],
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
 	}
 ]
