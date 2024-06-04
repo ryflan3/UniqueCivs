@@ -101,5 +101,5 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 		"uniqueTo": "Greece"
-	},
+	}
 ]
