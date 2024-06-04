@@ -101,5 +101,17 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 		"uniqueTo": "Greece"
+	},
+	{
+		"name": "Synagogue",
+		"replaces": "Temple",
+		"uniqueTo": "Ancient Israel", 
+		"faith": 3,
+		"happiness": 2,
+		"culture": 2,
+		"cost": 100,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Shrine"
+		"requiredTech": "Theology"
 	}
 ]
