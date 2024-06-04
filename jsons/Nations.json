@@ -65,6 +65,7 @@
     "neutralYes": "Agreed.",
     "hateNo": "Absolutely not!",
     "hateYes": "Very well.",
+    "uniqueName": "This is Sparta",
     "uniques": [
       "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
       "[+2 Production] [in all cities]",
@@ -268,6 +269,42 @@
 		"cities": ["Jerusalem","Hebron","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
-	}
+	},
+	{
+    "name": "Scottish Clans",
+    "leaderName": "William Wallace",
+    "adjective": ["Scottish"],
+    "outerColor": [0, 51, 102],
+    "innerColor": [34, 139, 34],
+    "spyNames": ["Seumas MacLeod","Eoin MacGregor"],
+    "startBias": [[Hill]", "[Forest]"],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "Scotland hails ye! Our strength is rooted in our rugged highlands and indomitable clans.",
+    "startIntroPart2": "We face the trials of the battlefield with the heart of a lion.",
+    "introduction": "We are Scotland, the guardians of our homeland and the harbingers of freedom.",
+    "declaringWar": "Brace yourself for the wrath of the Scottish Clans!",
+    "attacked": "Ye dare to provoke Scotland?",
+    "afterPeace": "Peace has returned. Let us fortify our alliance.",
+    "defeated": "Our spirit is unbroken, even in defeat. Scotland will rise once more.",
+    "neutralHello": "Aye, greetings.",
+    "hateHello": "What is it ye seek?",
+    "tradeRequest": "Scotland offers this trade. Consider it with care.",
+    "neutralLetsHearIt": "Speak your mind.",
+    "hateLetsHearIt": "Out with it!",
+    "neutralNo": "Nay, we cannot accept.",
+    "neutralYes": "Aye, agreed.",
+    "hateNo": "Absolutely not!",
+    "hateYes": "Very well then."
+    "uniqueName": "Bagpipes of War",
+    "uniques": ["[+30]% Strength decreasing with distance from the capital <for [All] units>","Units ignore terrain costs when moving into any tile with Hills","When conquering an encampment, recruit a Barbarian unit <with [80]% chance>","[+50]% construction time for [All] improvements"],
+    "cities": [
+      "Edinburgh", "Stirling", "Aberdeen", "Inverness", "Glasgow", "Perth", 
+      "Dundee", "Falkirk", "Dumfries", "Ayr", "Elgin", "Dunfermline", 
+      "Oban", "Fort William", "Melrose", "Selkirk", "Paisley", "Kilmarnock", 
+      "Lerwick", "Kirkwall", "Stornoway", "Dornoch", "Thurso", 
+      "Wick", "Forres", "Crieff", "Moffat", "Peebles", 
+      "Jedburgh", "Hawick", "Stranraer", "Campbeltown", "Pitlochry"]
+
+  }
 ]
 
