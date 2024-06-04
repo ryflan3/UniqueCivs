@@ -117,6 +117,7 @@
 	{
 		"name": "Solomon's Temple",
 		"replaces": "Grand Temple",
+		"uniqueTo": "Ancient Israel",
 		"cost": 125,
 		"culture": 3,
 		"faith": 10,
