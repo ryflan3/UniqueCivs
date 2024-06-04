@@ -94,7 +94,7 @@
 		"unitType": "Ranged Water",
 		"replaces": "Frigate",
 		"uniqueTo": "Red Flag Pirate Confederation",
-		"movement": 6,
+		"movement": 5,
 		"strength": 30,
 		"rangedStrength": 35,
 		"cost": 185,
