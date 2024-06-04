@@ -143,7 +143,7 @@
   "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
   "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
 },
-  {
+{
   "name": "Red Flag Pirate Confederation",
   "leaderName": "Zheng Yi",
   "adjective": ["Pirate"],
@@ -162,11 +162,11 @@
   "innerColor": [255, 0, 0],
   "uniqueName": "Pirates Code",
   "uniques": [
-    "[+1] Movement <for [Water] units>",
-    "[+10]% Strength <for [Water] units>",
-    "No movement cost to pillage <for [All] units>",
+    "[+1] Movement for [Water] units",
+    "[+10]% Strength for [Water] units",
+    "No movement cost to pillage for [All] units",
     "Earn [60]% of the damage done to [City] units as [Gold]",
-    "[-10]% Strength <for [Land] units>"
+    "[-10]% Strength for [Land] units"
   ],
   "cities": [
     "Guangzhou", "Hong Kong", "Macau", "Fuzhou", "Shantou", "Xiamen", "Quanzhou", "Zhanjiang", "Haikou", "Zhuhai",
@@ -174,4 +174,5 @@
   ],
   "spyNames": ["Zheng Bao", "Cheung Po Tsai", "Shi Xianggu", "Mo Guanfu", "Liang Wenkan", "Cai Qian", "Huang Yigui", "Fan Wenzhao", "Yang Yandi", "Hong Qi"]
 }
+]
 
