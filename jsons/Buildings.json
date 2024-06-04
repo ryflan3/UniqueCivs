@@ -113,5 +113,16 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Shrine"
 		"requiredTech": "Theology"
+	},
+	{
+		"name": "Solomon's Temple",
+		"replaces": "Grand Temple",
+		"cost": 125,
+		"culture": 3,
+		"faith": 10,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [20] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "Can only be built <in [Holy] cities>","[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
 	}
 ]
