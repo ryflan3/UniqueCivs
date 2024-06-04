@@ -168,5 +168,19 @@
 		"upgradesTo": "Lancer",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+10]% to Flank Attack bonuses"],
 		"attackSound": "metalhit"
-  }
+  },
+	{
+		"name": "Maccabee",
+		"unitType": "Sword",
+		"uniqueTo": "Ancient Israel",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 12,
+		"cost": 40,
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Iron Working",
+		"upgradesTo": "Swordsman",
+		"uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Longswordsman] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
+	},
 ]
