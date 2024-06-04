@@ -78,5 +78,17 @@
 			"Connects trade routes over water","Must be next to [Coast]",
 		        "New [Military Water] units start with [15] Experience [in this city]"],
 		"requiredTech": "Compass"
-	}
+	},
+	{
+    "name": "Great Hall",
+    "replaces": "Amphitheater",
+    "requiredTech": "Drama and Poetry",
+    "cost": 90,
+    "maintenance": 1,
+    "happiness": 1,
+    "food": 1,
+    "faith": 1,
+    "culture": 4,
+    "uniqueTo": "Norseman Vikings"
+  }
 ]
