@@ -18,7 +18,7 @@
 		"name": "Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Sparta","Greece",
+		"uniqueTo": "Sparta",
 		"movement": 2,
 		"strength": 15,
 		"cost": 56,
@@ -154,5 +154,19 @@
 		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>","[+15]% to Flank Attack bonuses"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
-	}
+	},
+	 {
+		"name": "Hoplite",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Greece",
+		"movement": 2,
+		"strength": 15,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+  }
 ]
