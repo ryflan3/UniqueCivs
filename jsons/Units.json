@@ -180,7 +180,7 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Longswordsman] through ruins-like effects"],
+		"uniques": ["Invisible to non-adjacent units","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Longswordsman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
 ]
