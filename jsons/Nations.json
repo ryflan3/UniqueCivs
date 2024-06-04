@@ -233,6 +233,41 @@
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
 			"Patras","Lamia","Nafplion","Apolyton"],
         "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
-    }
+    },
+	{
+		"name": "Ancient Israel",
+		"leaderName": "Solomon",
+		"adjective": ["Israeli"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Great and wise Solomon, King of Israel and son of David. You were the leader of the Jewish people, ruling over a shortlived kingdom in the Promised Land, before your people would once again become wanders. Yet Babylon has fallen, Alexander ended the rules of Persians, Rome grew in power and fell, the crusaders were defeated, and still your people has survived. The Jewish people have shown the world a strenght of culture and tradition, their religion and beliefs standing strong against the many who sought to destroy them. After three thousands years, your nation has proven to be one of the most tenacious in history, carving out a place for themselves like the rain wears away at the rock.",
+		"startIntroPart2": "King Solomon, the time has come to reign once again. Shall you build great temples and bring peace to your people? Will your divine wisdom carve ought an empire of art and learning? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "The Lord demands justice!",
+		"attacked": "The Lord presented me your plans. We are prepared!",
+		"defeated":  "Is this how my peaceful reign ends? In a river of blood and suffering...",
+		"introduction":  "I am Solomon, King of the Chosen People. If you seek justice or advice, know that you had found them.",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept!"],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That offer is not just!","That can't be true."],
+		"hateYes": ["I can accept.","Fine.","The Lord told me it will be wise to accept this offer."],
+		
+		"afterPeace": "Praise the Lord as he gives peace!",
+		"tradeRequest": "I present you this trade offer.",
+
+		"outerColor": [	255, 255, 204],
+		"innerColor": [	51, 153, 255],
+		"uniqueName": "Promised Land",
+		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]","[+10]% [Food] [in all cities]","May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>","[-15]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Jerusalem","Hebron","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
+			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
+			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
+	}
 ]
 
