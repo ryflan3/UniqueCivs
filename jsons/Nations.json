@@ -162,7 +162,7 @@
   "innerColor": [255, 0, 0],
   "uniqueName": "Pirates Code",
   "uniques": [
-    "[+1] Movement <for [Water] units>","[+10]% Strength <for [Water] units>", "No movement cost to pillage <for [All] units>", "Earn [60]% of the damage done to [Water] units as [Gold]","[-10]% Strength <for [Land] units>","Cannot build [Settler] units"],
+    "[+1] Movement <for [Water] units>","[+10]% Strength <for [Water] units>", "No movement cost to pillage <for [All] units>", "Earn [50]% of the damage done to [Water] units as [Gold]", "Earn [50]% of killed [Military Water] unit's [Strength] as [Gold]","[-10]% Strength <for [Land] units>","Cannot build [Settler] units"],
   "cities": [
     "Guangzhou", "Hong Kong", "Macau", "Fuzhou", "Shantou", "Xiamen", "Quanzhou", "Zhanjiang", "Haikou", "Zhuhai",
     "Yantai", "Dalian", "Ningbo", "Wenzhou", "Jiangmen", "Beihai", "Shenzhen", "Sanya", "Zhongshan", "Huizhou"
