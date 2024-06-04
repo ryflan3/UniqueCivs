@@ -156,7 +156,7 @@
 		"attackSound": "horse"
 	},
 	 {
-		"name": "Greecian Hoplite",
+		"name": "Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Greece",
