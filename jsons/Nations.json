@@ -173,7 +173,7 @@
 		"name": "Norseman Vikings",
 		"leaderName": "Ragnar Lothbrok",
 		"adjective": ["Norse"],
-		"startBias": ["Coast"],
+		"startBias": ["Coast","Tundra"],
 		"preferredVictoryType": "Domination",
   "startIntroPart1": "Skål, Ragnar Lothbrok, legendary warrior and scourge of the seas! Your fame spreads across the lands of the North and beyond, carried by the winds of your countless conquests. With your cunning and ferocity, you led daring raids on the shores of England and France, striking fear into the hearts of kings and peasants alike. Your sons, Ivar the Boneless, Bjorn Ironside, and others, follow in your footsteps, ensuring your legacy endures.",
   "startIntroPart2": "O mighty Ragnar, the gods smile upon your deeds. The time has come to unleash the fury of the Northmen once more and carve your name into the annals of history. Will your saga end in glorious triumph, or will you feast in Valhalla with the brave who fell before you? The fate of your new empire rests in your hands!",
