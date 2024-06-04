@@ -142,6 +142,36 @@
   "Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
   "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
   "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
+},
+  {
+  "name": "Red Flag Pirate Confederation",
+  "leaderName": "Zheng Yi",
+  "adjective": ["Pirate"],
+  "startBias": ["Coast"],
+  "preferredVictoryType": "Domination",
+  "startIntroPart1": "Greetings, mighty Zheng Yi, Admiral of the Red Flag Fleet and master of the South China Sea. Your confederation of pirates has become a formidable force, challenging the mightiest navies and ruling the seas with unparalleled skill. The cunning and bravery of your fleet have brought you great wealth and fame, as you navigate the treacherous waters and outwit your enemies.",
+  "startIntroPart2": "O feared pirate leader, your people look to you for guidance and strength as they continue their quest for dominance. In these turbulent times, will you lead the Red Flag Pirate Confederation to further glory and eternal renown?",
+  "declaringWar": "Prepare yourselves! The Red Flag Fleet shall plunder your lands and seize your riches!",
+  "attacked": "You dare challenge the might of the Pirate Confederation? You will pay dearly for this!",
+  "defeated": "Our time has come to an end. The seas will remember our deeds.",
+  "introduction": "I am Zheng Yi, Admiral of the Red Flag Fleet. State your business, friend or foe.",
+  "neutralHello": "Speak your mind.",
+  "hateHello": "Why do you disturb me?",
+  "tradeRequest": "Consider this offer from the Red Flag Fleet.",
+  "outerColor": [0, 0, 0],
+  "innerColor": [255, 0, 0],
+  "uniqueName": "Pirates Code",
+  "uniques": [
+    "[+1] Movement <for [Water] units>",
+    "[+10]% Strength <for [Water] units>",
+    "No movement cost to pillage <for [All] units>",
+    "Earn [60]% of the damage done to [City] units as [Gold]",
+    "[-10]% Strength <for [Land] units>"
+  ],
+  "cities": [
+    "Guangzhou", "Hong Kong", "Macau", "Fuzhou", "Shantou", "Xiamen", "Quanzhou", "Zhanjiang", "Haikou", "Zhuhai",
+    "Yantai", "Dalian", "Ningbo", "Wenzhou", "Jiangmen", "Beihai", "Shenzhen", "Sanya", "Zhongshan", "Huizhou"
+  ],
+  "spyNames": ["Zheng Bao", "Cheung Po Tsai", "Shi Xianggu", "Mo Guanfu", "Liang Wenkan", "Cai Qian", "Huang Yigui", "Fan Wenzhao", "Yang Yandi", "Hong Qi"]
 }
-]  
 
