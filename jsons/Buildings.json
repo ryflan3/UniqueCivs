@@ -63,7 +63,7 @@
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 30},
-		"uniques": ["[+2 Gold] from each Trade Route [in this city]","[+2 Gold] from [Luxury] tiles [in this city]", "[+3 Gold] from [Oasis] tiles [in this city]"],
+		"uniques": ["[+1 Gold] from each Trade Route","[+2 Gold] from [Luxury] tiles [in this city]", "[+3 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 {
