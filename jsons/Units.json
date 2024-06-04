@@ -183,4 +183,20 @@
 		"uniques": ["Invisible to non-adjacent units","Earn [50]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Longswordsman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Highland Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Scottish Clans",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques":["[+15]% Strength <when fighting in [Rough terrain] tiles>","Double movement in [Forest]","Double movement in [Hill]"],
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
