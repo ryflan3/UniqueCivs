@@ -129,6 +129,7 @@
 		"name": "Longship",
 		"unitType": "Melee Water",
 		"replaces": "Galleass",
+		"uniqueTo": "Norseman Vikings",
 		"movement": 4,
 		"strength": 19,
 		"cost": 100,
