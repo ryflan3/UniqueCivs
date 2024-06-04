@@ -18,7 +18,7 @@
 		"name": "Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
-		"uniqueTo": "Sparta",
+		"uniqueTo": "Sparta","Greece",
 		"movement": 2,
 		"strength": 15,
 		"cost": 56,
