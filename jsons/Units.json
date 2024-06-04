@@ -15,7 +15,7 @@
     "promotions": ["Shock I", "Great Generals II"],
   },
   {
-		"name": "Hoplite",
+		"name": "Spartan Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Sparta",
@@ -25,7 +25,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+20]% to Flank Attack bonuses"],
 		"attackSound": "metalhit"
   },
 	{       "name": "Papal Guard",
@@ -156,7 +156,7 @@
 		"attackSound": "horse"
 	},
 	 {
-		"name": "Hoplite",
+		"name": "Greecian Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Greece",
@@ -166,7 +166,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+10]% to Flank Attack bonuses"],
 		"attackSound": "metalhit"
   }
 ]
