@@ -90,5 +90,15 @@
     "faith": 1,
     "culture": 4,
     "uniqueTo": "Norseman Vikings"
-  }
+  },
+{
+		"name": "Royal Library",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"science": 2,
+		"happiness": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
 ]
