@@ -328,7 +328,7 @@
 
         "favoredReligion": "Christianity",
 	"uniqueName": "Manifest Destiny",
-	"uniques": ["[+2] Sight <for [{Military} {Land}] units>","[+1] Movement  <for [{Military} {Land}] units>","[-50]% Gold cost of acquiring tiles [in all cities]","[+1 Production] per [3] population [in all cities]","[+5]% growth [in all cities]","[+10]% Unhappiness from [Population] [in all occupied cities]"],
+	"uniques": ["[+2] Sight <for [{Military} {Land}] units>","[+1] Movement  <for [{Military} {Land}] units>","[-50]% Gold cost of acquiring tiles [in all cities]","[+1 Production] per [5] population [in all cities]","[+5]% growth [in all cities]","[+10]% Unhappiness from [Population] [in all cities]"],
 	"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 	"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 	"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
