@@ -296,7 +296,7 @@
     "hateNo": "Absolutely not!",
     "hateYes": "Very well then."
     "uniqueName": "Bagpipes of War",
-    "uniques": ["[+30]% Strength decreasing with distance from the capital <for [All] units>","Units ignore terrain costs when moving into any tile with Hills","When conquering an encampment, recruit a Barbarian unit <with [80]% chance>","[+50]% construction time for [All] improvements"],
+    "uniques": ["[+30]% Strength decreasing with distance from the capital <for [All] units>","Units ignore terrain costs when moving into any tile with Hills","When conquering an encampment, recruit a Barbarian unit <with [80]% chance>","[+25]% construction time for [All] improvements"],
     "cities": [
       "Edinburgh", "Stirling", "Aberdeen", "Inverness", "Glasgow", "Perth", 
       "Dundee", "Falkirk", "Dumfries", "Ayr", "Elgin", "Dunfermline", 
