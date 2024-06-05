@@ -265,7 +265,7 @@
 		"outerColor": [	255, 255, 204],
 		"innerColor": [	51, 153, 255],
 		"uniqueName": "Promised Land",
-		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]","[+10]% [Food] [in all cities]","May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>","[-15]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [5] population [in all cities]","[+7]% [Food] [in all cities]","May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>","[-15]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Jerusalem","Hebron","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
