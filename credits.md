@@ -1,7 +1,7 @@
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
 * [vikings] https://thenounproject.com/icon/vikings-4761687/ by nakals
-* [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
+* [Scotland] (https://thenounproject.com/icon/scotland-6207235/) by Surya Lesmana
 * [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
 * [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
 
