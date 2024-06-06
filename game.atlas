@@ -3,112 +3,112 @@ size: 500, 1100
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Ancient Israel
+NationIcons/Ancient Israel
   rotate: false
   xy: 100, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Dojo
+BuildingIcons/Dojo
   rotate: false
   xy: 300, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Geisha House
+BuildingIcons/Geisha House
   rotate: false
   xy: 0, 300
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Great Hall
+BuildingIcons/Great Hall
   rotate: false
   xy: 200, 300
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-House of Borgia
+NationIcons/House of Borgia
   rotate: false
   xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Norseman Vikings
+NationIcons/Norseman Vikings
   rotate: false
   xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Palace of the Popes
+BuildingIcons/Palace of the Popes
   rotate: false
   xy: 0, 500
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Red Flag Pirate Confederation
+NationIcons/Red Flag Pirate Confederation
   rotate: false
   xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Royal Library
+BuildingIcons/Royal Library
   rotate: false
   xy: 200, 500
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Scottish Clans
+NationIcons/Scottish Clans
   rotate: false
   xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Sea Fort
+BuildingIcons/Sea Fort
   rotate: false
   xy: 0, 700
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Smugglers Cove
+BuildingIcons/Smugglers Cove
   rotate: false
   xy: 200, 700
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Sparta
+NationIcons/Sparta
   rotate: false
   xy: 400, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Spartan Barracks
+BuildingIcons/Spartan Barracks
   rotate: false
   xy: 0, 900
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Synagogue
+BuildingIcons/Synagogue
   rotate: false
   xy: 200, 900
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-Tokugawa Shogunate
+NationIcons/Tokugawa Shogunate
   rotate: false
   xy: 0, 100
   size: 100, 100
