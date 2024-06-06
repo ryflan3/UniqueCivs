@@ -4,7 +4,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * [Scotland] (https://thenounproject.com/icon/scotland-6207235/) by Surya Lesmana
 * [Geisha] (https://thenounproject.com/icon/geisha-5904080/) by Nuengrutai
 * [Shiro] (https://thenounproject.com/icon/shiro-149683/) by Simon Child
-* [vikings] https://thenounproject.com/icon/vikings-4761687/ by nakals
+* [Spears] https://thenounproject.com/icon/spears-4295207/ by Eucalyp
 * [vikings] https://thenounproject.com/icon/vikings-4761687/ by nakals
 * [vikings] https://thenounproject.com/icon/vikings-4761687/ by nakals
 * [vikings] https://thenounproject.com/icon/vikings-4761687/ by nakals
