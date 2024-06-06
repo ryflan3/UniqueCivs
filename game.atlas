@@ -1,0 +1,117 @@
+game.png
+size: 500, 1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ancient Israel
+  rotate: false
+  xy: 100, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dojo
+  rotate: false
+  xy: 300, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Geisha House
+  rotate: false
+  xy: 0, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Great Hall
+  rotate: false
+  xy: 200, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+House of Borgia
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Norseman Vikings
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Palace of the Popes
+  rotate: false
+  xy: 0, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Red Flag Pirate Confederation
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Royal Library
+  rotate: false
+  xy: 200, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Scottish Clans
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sea Fort
+  rotate: false
+  xy: 0, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Smugglers Cove
+  rotate: false
+  xy: 200, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Sparta
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Spartan Barracks
+  rotate: false
+  xy: 0, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Synagogue
+  rotate: false
+  xy: 200, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Tokugawa Shogunate
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
