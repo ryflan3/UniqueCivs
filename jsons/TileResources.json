@@ -2,7 +2,7 @@
   {
 		"name": "Tea",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Grassland,Plains"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Grassland","Plains"],
 		"gold": 1,
                 "food": 1,
 		"improvement": "Plantation",
