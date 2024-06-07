@@ -2,7 +2,7 @@
 
 	{
 		"name": "Arctic Research Station",
-		"terrainsCanBeBuiltOn": ["Tundra"],
+		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
 		"science": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Education",
