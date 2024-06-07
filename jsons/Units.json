@@ -30,7 +30,7 @@
   },
 	{       "name": "Papal Guard",
 		"unitType": "Sword",
-		"replaces": "Landsknecht",
+		"replaces": "Pikeman",
 		"uniqueTo": "House of Borgia",
 		"movement": 2,
 		"strength": 18,
