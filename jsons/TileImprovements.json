@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Rice Paddy",
-		"terrainsCanBeBuiltOn": ["Marsh","Flood Plains"],
+		"terrainsCanBeBuiltOn": ["Marsh","Flood plains"],
 		"food": 2,
 		"gold": 1,
 		"turnsToBuild": 7,
