@@ -10,7 +10,7 @@ NationIcons/Ancient Israel
   orig: 200, 200
   offset: 0, 0
   index: -1
-ImprovementsIcons/Arctic Research Station
+ImprovementIcons/Arctic Research Station
   rotate: false
   xy: 200, 0
   size: 200, 200
