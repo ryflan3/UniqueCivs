@@ -1,0 +1,11 @@
+[
+
+	{
+		"name": "Arctic Research Station",
+		"terrainsCanBeBuiltOn": ["Tundra"],
+		"science": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Education",
+		"uniques": ["[+1 Science] <after discovering [Refrigeration]>",
+            "Pillaging this improvement yields approximately [+15 Science]"],
+	},
