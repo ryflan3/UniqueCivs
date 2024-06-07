@@ -9,4 +9,14 @@
 		"uniques": ["[+1 Science] <after discovering [Refrigeration]>",
             "Pillaging this improvement yields approximately [+15 Science]"],
 	},
+	{
+		"name": "Rice Paddy",
+		"terrainsCanBeBuiltOn": ["Marsh","Flood Plains"],
+		"food": 2,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Calendar",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+10 Gold]"],
+	}
 ]
