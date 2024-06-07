@@ -19,6 +19,6 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * Samurai https://thenounproject.com/icon/samurai-6683849/ by Dimitri Lupo
 * Spartan Helmet https://thenounproject.com/icon/spartan-helmet-4588854/ by Kareemov 1000
 * Crusader https://thenounproject.com/icon/crusader-4559736/ by Lars Meiertoberens
-* 
+* Bishop https://thenounproject.com/icon/bishop-41283/ by Jose Manuel de laa
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
