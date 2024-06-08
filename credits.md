@@ -20,5 +20,13 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * Spartan Helmet https://thenounproject.com/icon/spartan-helmet-4588854/ by Kareemov 1000
 * Crusader https://thenounproject.com/icon/crusader-4559736/ by Lars Meiertoberens
 * Bishop https://thenounproject.com/icon/bishop-41283/ by Jose Manuel de laa
+* Rice https://thenounproject.com/icon/rice-5676635/ by Soni Sokell
+* Junk Boat https://thenounproject.com/icon/junk-boat-3890877/ by Kevin
+* Vikings https://thenounproject.com/icon/vikings-5218906/ by Amethyst Studio
+* horse head https://thenounproject.com/icon/horse-head-374037/ by Juan Pablo Bravo
+* sword https://thenounproject.com/icon/sword-5967784/ by Yosua Bungaran
+* bagpipe https://thenounproject.com/icon/bagpipe-4666558/ by amethyst studios
+* scottish https://thenounproject.com/icon/scottish-3919234/ by Phan tham Loc
+* 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
