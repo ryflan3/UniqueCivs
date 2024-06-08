@@ -213,5 +213,20 @@
 	    "Great Person - [War]", "Unbuildable", "Uncapturable",
 	    "Double movement in [Forest]","Double movement in [Hill]"],
 		"movement": 2
+	},
+	{
+		"name": "Babylonian Bowman",
+		"unitType": "Archery",
+		"uniqueTo": "Babylon",
+		"replaces": "Composite Bowman",
+		"uniques": ["[1] additional attacks per turn"],
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 12,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
 	}
 ]
