@@ -361,7 +361,7 @@
 		"innerColor": [213,249,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Ingenuity",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster","[+2 Happiness] from every [Courthouse]","[+2 Gold] from each Trade Route", "[-10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster","[+2 Happiness] from every [Courthouse]","[+2 Gold] from each Trade Route", "[-15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
