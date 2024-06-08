@@ -27,6 +27,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * sword https://thenounproject.com/icon/sword-5967784/ by Yosua Bungaran
 * bagpipe https://thenounproject.com/icon/bagpipe-4666558/ by amethyst studios
 * scottish https://thenounproject.com/icon/scottish-3919234/ by Phan tham Loc
+* spear https://thenounproject.com/icon/spear-3719099/ by Eucalyp
 * 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
