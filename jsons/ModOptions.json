@@ -1,4 +1,4 @@
 {
 	 "nationsToRemove":["Japan","Denmark"],
-	 "unitsToRemove": [Bowman]
+	 "unitsToRemove": ["Bowman"]
 }
