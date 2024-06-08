@@ -228,5 +228,19 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
+	},
+        {
+		"name": "Babylonian Shield Bearer",
+		"unitType": "Sword",
+		"uniqueTo": "Babylon",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+25]% Strength <vs [Mounted] units>","[+33]% Strength <when defending>"],
+		"attackSound": "metalhit"
 	}
 ]
