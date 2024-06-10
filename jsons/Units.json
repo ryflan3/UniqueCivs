@@ -242,5 +242,19 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+25]% Strength <vs [Mounted] units>","[+33]% Strength <when defending>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Assassin",
+		"unitType": "Sword",
+		"uniqueTo": "The Order of Assassins",
+		"replaces": "Longswordsman",
+		"movement": 3,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["[+150]% Strength <when attacking>","[-50]% Strength <when defending>","Can move after attacking",],
+		"attackSound": "metalhit"
 	}
 ]
