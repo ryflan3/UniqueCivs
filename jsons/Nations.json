@@ -29,8 +29,8 @@
     "uniques": [
       "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
       "[+1 Culture] [in all cities]",
-      "[-90]% Gold from Great Merchant trade missions",
-      "[-3 Gold] from each Trade Route",
+      "[-70]% Gold from Great Merchant trade missions",
+      "[-50]% [Gold] from Trade Routes"
     ],
     "cities": [
       "Edo", "Kyoto", "Osaka", "Nagoya", "Kanazawa", "Hiroshima", "Sapporo",
