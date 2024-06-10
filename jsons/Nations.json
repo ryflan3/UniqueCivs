@@ -465,7 +465,7 @@
 		"innerColor": [255,168,168],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Seven Cities of Gold",
-		"uniques": ["[+300 Gold] for discovering a Natural Wonder","[+50]% Golden Age length","[+2] Sight <for [All] units>","[+10]% Strength <on foreign continents>","[+20]% maintenance costs <for [Military] units>"]
+		"uniques": ["[+400 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it)","[+50]% Golden Age length","[+2] Sight <for [All] units>","[+10]% Strength <on foreign continents>","[+20]% maintenance costs <for [Military] units>"]
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
