@@ -391,6 +391,30 @@
 
     "cities": ["Alamut", "Masyaf", "Girdkuh", "Lambsar", "Tabas", "Qain", "Shahdiz", "Darband", "Sa'adatabad", "Birjand", "Qazvin", "Damghan", "Tun", "Semnan", "Siah-Kuh", "Kuhistan", "Kerman", "Nishapur", "Rayy", "Isfahan", "Yazd", "Kashan", "Zanjan", "Maragheh", "Qom", "Herat", "Hamadan", "Tabriz", "Tus", "Sari", "Shahrud", "Bam", "Samarqand", "Balkh", "Merv", "Qandahar", "Baghdad", "Basra", "Mosul"],
     "spyNames": ["Ali", "Hassan", "Fatima", "Khalid", "Zaynab", "Umar", "Layla", "Yusuf", "Aisha", "Ibrahim", "Salim", "Mariam", "Bilal", "Samira", "Nadia", "Rashid", "Amin", "Zara", "Farid", "Leila"]
+},
+	{
+	"name": "Zulu",
+		"leaderName": "Shaka",
+		"adjective": ["Zulu"],
+		"startBias": ["Plains"],
+
+    "startIntroPart1": "I am Shaka, the great King of the Zulu. From the fertile lands of KwaZulu-Natal, I have forged a kingdom through strength, cunning, and the indomitable spirit of my people. Our impis, trained in the art of war, strike fear into all who oppose us. With the mighty iklwa and the impenetrable isihlangu, we have reshaped the landscape of power in southern Africa. No challenge has defeated us, no enemy has withstood our charge.",
+    "startIntroPart2": "O Shaka, the name of the Zulu echoes through the valleys and across the plains. Will you lead your people to new heights, spreading the influence of the Zulu far and wide? Will your legacy be carved into the annals of history, remembered with awe and reverence?",
+    "declaringWar": "Prepare to face the fury of the Zulu warriors!",
+    "attacked": "You dare to challenge us? Very well, face the consequences.",
+    "defeated": "The sun sets on my reign. Perhaps now, I will find peace in the spirit world.",
+    "introduction": "Do you come in peace, or do you seek conflict?",
+    "neutralHello": "Welcome, stranger.",
+    "hateHello": "Speak quickly, or face my wrath.",
+    "tradeRequest": "Ah, a proposal that could benefit us both. Let us see what you offer."
+		"outerColor": [139,69,19],
+		"innerColor": [255,255,255],
+		"uniqueName": "Warrior Culture",
+		"uniques": ["[+15]% Production when constructing [Melee] units [in all cities]","[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+2 Production, +2 Gold, +1 Food] from every [Pasture]","[+5]% happiness from [Population] [in all cities]","[-1] Movement <for [Water] units>","[-1] Sight <for [Water] units>","[-10]% Strength <for [Water] units>"],
+
+    "cities": ["Ulundi", "Nongoma", "KwaDukuza", "eShowe", "Empangeni", "Richards Bay", "Durban", "Pietermaritzburg", "Ladysmith", "Vryheid", "Newcastle", "Greytown", "Ixopo", "Bergville", "Hluhluwe", "Stanger", "Mtubatuba", "Hlabisa", "Mkuze", "Eshowe", "Ndwedwe", "Kokstad", "Harding", "Utrecht", "Melmoth", "Nqutu", "Pomeroy", "Winterton", "Ekuvukeni", "Mandini", "Mpumalanga", "Dundee", "Paulpietersburg", "Ulundi North", "Ongoye", "Zululand", "KwaMashu", "Elandskraal", "Mahlabatini", "Abaqulusi"],
+    "spyNames": ["Senzangakhona", "Cetshwayo", "Nandi", "Mpande", "Nokuthula", "Nkosinathi", "Bhekizitha", "Thembeka", "Lindokuhle", "Thandeka", "Simphiwe", "Nomvula", "Vusumuzi", "Zandile", "Sibongile", "Thamsanqa", "Bongani", "Gugulethu", "Thandiwe", "Sipho"]
+
 }
 
 ]
