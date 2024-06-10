@@ -196,6 +196,26 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["[+1 Production, +1 Gold] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Kraal",
+		"replaces": "Granary",
+		"uniqueTo": "Zulu",
+		"food": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Wheat] tiles [in this city]", "[+1 Food] from every [Pasture]", "[+5]% [Food][in this city]"]
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Ekhenzi",
+		"replaces": "Armory",
+		"uniqueTo": "Zulu",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Melee] units start with [30] Experience [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Steel"
 	}
 		
 ]
