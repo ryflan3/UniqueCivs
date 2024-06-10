@@ -216,6 +216,17 @@
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Melee] units start with [30] Experience [in this city]","Destroyed when the city is captured"],
 		"requiredTech": "Steel"
+	},
+	{
+		"name": "Globe Theatre",
+		"replaces": "Theatre",
+		"uniqueTo": "England",
+		"happiness": 3,
+		"culture": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
 	}
 		
 ]
