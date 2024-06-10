@@ -1,0 +1,355 @@
+game.png
+size: 1000, 1900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ancient Israel
+  rotate: false
+  xy: 0, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Arctic Research Station
+  rotate: false
+  xy: 200, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Assassin
+  rotate: false
+  xy: 400, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Babylonian Bowman
+  rotate: false
+  xy: 600, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Babylonian Shield Bearer
+  rotate: false
+  xy: 800, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Cardinal Protector
+  rotate: false
+  xy: 0, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Caviar
+  rotate: false
+  xy: 200, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Clan Chieftan
+  rotate: false
+  xy: 400, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Cocoa
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Coffee
+  rotate: false
+  xy: 600, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Companion Cavalry
+  rotate: false
+  xy: 800, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Daimyo
+  rotate: false
+  xy: 0, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Dojo
+  rotate: false
+  xy: 200, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Fortress of Alamut
+  rotate: false
+  xy: 400, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Fortress
+  rotate: false
+  xy: 600, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Geisha House
+  rotate: false
+  xy: 800, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Globe Theatre
+  rotate: false
+  xy: 0, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Great Hall
+  rotate: false
+  xy: 200, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Highland Hall
+  rotate: false
+  xy: 400, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Highland Warrior
+  rotate: false
+  xy: 600, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+House of Borgia
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Ikhanda
+  rotate: false
+  xy: 800, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Impi
+  rotate: false
+  xy: 0, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Junk Ship
+  rotate: false
+  xy: 200, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Kraal
+  rotate: false
+  xy: 400, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Longship
+  rotate: false
+  xy: 600, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Maccabee
+  rotate: false
+  xy: 800, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Mission
+  rotate: false
+  xy: 0, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Norseman Vikings
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Palace of the Popes
+  rotate: false
+  xy: 200, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Papal Guard
+  rotate: false
+  xy: 400, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Red Flag Pirate Confederation
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Rice Paddy
+  rotate: false
+  xy: 600, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Royal Library
+  rotate: false
+  xy: 800, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Scottish Clans
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Sea Fort
+  rotate: false
+  xy: 0, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Silicon Valley
+  rotate: false
+  xy: 200, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Smithsonian
+  rotate: false
+  xy: 400, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Smugglers Cove
+  rotate: false
+  xy: 600, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Spanish Inquisitor
+  rotate: false
+  xy: 800, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Sparta
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Spartan Barracks
+  rotate: false
+  xy: 0, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Spartan Hoplite
+  rotate: false
+  xy: 200, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Synagogue
+  rotate: false
+  xy: 400, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Tea
+  rotate: false
+  xy: 600, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+The Order of Assassins
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Tobacco
+  rotate: false
+  xy: 800, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Tokugawa Shogunate
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Wall Street
+  rotate: false
+  xy: 0, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Zulu
+  rotate: false
+  xy: 800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
