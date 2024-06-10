@@ -231,7 +231,7 @@
 	{
 		"name": "Mission",
 		"replaces": "Temple",
-		"uniqueTo": "England",
+		"uniqueTo": "Spain",
 		"faith": 3,
 		"culture": 1
 		"requiredBuilding": "Shrine",
