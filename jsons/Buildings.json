@@ -208,7 +208,7 @@
 		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Ekhenzi",
+		"name": "Ikhanda",
 		"replaces": "Armory",
 		"uniqueTo": "Zulu",
 		"hurryCostModifier": 25,
