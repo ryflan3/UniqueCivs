@@ -32,7 +32,15 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * assassin https://thenounproject.com/icon/assassin-5878922/ by brad
 * fortress https://thenounproject.com/icon/fortress-6581363/ by Nendra Wahyu Kuncoro
 * mountain https://thenounproject.com/icon/mountain-6601601/ by kmg design
-* 
+* african traditional weapon https://thenounproject.com/icon/african-traditional-weapon-1659392/ by Rafiico Creative Studio
+* zulu shield https://thenounproject.com/icon/zulu-shield-4687123/ by eucalyp
+* coffee https://thenounproject.com/icon/coffee-6886532/ by andi nur abdillah
+* cigar https://thenounproject.com/icon/cigar-3379812/ by supalark laicon
+* hut https://thenounproject.com/icon/hut-4657044/ by lars meiertoerans
+* tent https://thenounproject.com/icon/tent-16637/ by sjbdr
+* shakespeare https://thenounproject.com/icon/shakespeare-50024/ by daniel turner
+* executioner https://thenounproject.com/icon/executioner-110008/ by igor yanovsky
+* alamo https://thenounproject.com/icon/alamo-3653263/ by linseed studio
 * 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
