@@ -367,6 +367,31 @@
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
         "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
-	}
+	},
+	{
+	"name": "The Order of Assassins",
+		"leaderName": "Hassan-i Sabbah",
+		"adjective": ["Hashashin"],
+		"startBias": ["Mountain"],
+
+	        "startIntroPart1": "In the name of Allah, greetings from Hassan-i Sabbah, Master of the Order of Assassins! From the heights of Alamut, our order has woven a web of intrigue and power across the lands. Born out of necessity and strategy, we have survived through the ages, shaping the course of history with the sharpness of our blades and the cunning of our minds. Despite countless attempts to crush us, we have always risen from the shadows, undeterred and ever vigilant.",
+                "startIntroPart2": "O Hassan-i Sabbah, the legacy of the Hashashin is eternal. Will you continue to cast your shadow across the world, orchestrating the rise and fall of empires? Will your name be whispered with reverence and fear through the annals of history?",
+                "declaringWar": "Our blades thirst for blood!",
+                "attacked": "You tread a dangerous path, but the choice is yours.",
+                "defeated": "The end has come. Perhaps now I shall find peace in the eternal shadows.",
+                "introduction": "Are you an ally or a mere illusion?",
+                "neutralHello": "Salutations.",
+                "hateHello": "State your purpose, if you have one.",
+                "tradeRequest": "It seems you have found a purpose – to make this deal with me."
+		"outerColor": [0,0,0],
+		"innerColor": [0,128,0],
+		"favoredReligion": "Islam",
+		"uniqueName": "Web of Shadows",
+		"uniques": ["New spies start with [1] level(s)","Gain an extra spy <upon entering the [Ancient era]>", "Gain an extra spy <upon entering the [Classical era]>", "Gain an extra spy <upon entering the [Medieval era]>","[-25]% enemy spy effectiveness [in all cities]", "[-99]% enemy spy effectiveness [in capital]", "Land units may cross [Mountain] tiles","[-15]% [Science] [in all cities]"],
+
+    "cities": ["Alamut", "Masyaf", "Girdkuh", "Lambsar", "Tabas", "Qain", "Shahdiz", "Darband", "Sa'adatabad", "Birjand", "Qazvin", "Damghan", "Tun", "Semnan", "Siah-Kuh", "Kuhistan", "Kerman", "Nishapur", "Rayy", "Isfahan", "Yazd", "Kashan", "Zanjan", "Maragheh", "Qom", "Herat", "Hamadan", "Tabriz", "Tus", "Sari", "Shahrud", "Bam", "Samarqand", "Balkh", "Merv", "Qandahar", "Baghdad", "Basra", "Mosul"],
+    "spyNames": ["Ali", "Hassan", "Fatima", "Khalid", "Zaynab", "Umar", "Layla", "Yusuf", "Aisha", "Ibrahim", "Salim", "Mariam", "Bilal", "Samira", "Nadia", "Rashid", "Amin", "Zara", "Farid", "Leila"]
+}
+
 ]
 
