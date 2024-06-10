@@ -28,6 +28,11 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * bagpipe https://thenounproject.com/icon/bagpipe-4666558/ by amethyst studios
 * scottish https://thenounproject.com/icon/scottish-3919234/ by Phan tham Loc
 * spear https://thenounproject.com/icon/spear-3719099/ by Eucalyp
+* assassin https://thenounproject.com/icon/assassin-4110874/ by Robert Bjurshagen
+* assassin https://thenounproject.com/icon/assassin-5878922/ by brad
+* fortress https://thenounproject.com/icon/fortress-6581363/ by Nendra Wahyu Kuncoro
+* mountain https://thenounproject.com/icon/mountain-6601601/ by kmg design
+* 
 * 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
