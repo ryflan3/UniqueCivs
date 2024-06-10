@@ -181,10 +181,21 @@
 		"cost": 65,
 		"uniqueTo": "Babylon",
 		"cityStrength": 8,
-		"cityHealth": 125,
+		"cityHealth": 100,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+10]% City Strength from defensive buildings"]
+	},
+	{
+		"name": "Fortress of Alamut",
+		"replaces": "Castle",
+		"uniqueTo": "The Order of Assassins",
+		"cityStrength": 12,
+		"cityHealth": 75,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[+1 Production, +1 Gold] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
 	}
 		
 ]
