@@ -39,7 +39,7 @@
     "culture": 3,
     "faith": 3,
     "cityStrength": 2,
-    "cost": 2,
+    "cost": 0,
     "uniqueTo": "House of Borgia",
     "uniques": ["Indicates the capital city", "[+10]% [Faith] [in all cities]"]
   },
