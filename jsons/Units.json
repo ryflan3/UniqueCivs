@@ -256,5 +256,19 @@
 		"obsoleteTech": "Gunpowder",
 		"uniques": ["[+150]% Strength <when attacking>","[-50]% Strength <when defending>","Can move after attacking",],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Impi", 
+		"replaces": "Pikeman",
+		"uniqueTo": "Zulu",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+25]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Mounted] units>","[1] additional attacks per turn","May withdraw before melee ([25]%)"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "metalhit"
 	}
 ]
