@@ -227,6 +227,18 @@
 		"maintenance": 2,
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
-	}
+	},
+	{
+		"name": "Mission",
+		"replaces": "Temple",
+		"uniqueTo": "England",
+		"faith": 3,
+		"culture": 1
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "[+10]% Natural religion spread [in this city]","Destroyed when the city is captured"]
+	},
 		
 ]
