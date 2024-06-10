@@ -443,6 +443,34 @@
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
 			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+    },
+	{
+		"name": "Spain",
+		"leaderName": "Isabella",
+		"adjective": ["Spanish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "Holy Isabella, envoy of God, Great Queen of Castille and León, your people celebrate you! Spain is a beautiful and ancient country, a link between Europe and Africa, one shore on the Mediterranean and the other on the mighty Atlantic Ocean. The Spanish culture had taken the best of the Christian and Muslim worlds, and was ready to dominate the world for centuries. Powerful Spanish military fleets and brave explorers found and conquered much of the New World. Exploiting a whole new continent and its riches, Spain reached a state of power few could compete with for hundreds of years.",
+        "startIntroPart2": "O splendid and virtuous Isabella! By the will of the heavens, will Spain reborn to achieve its holy destiny and become a new El Dorado? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
+		"attacked": "Repugnant spawn of the devil! You will pay!",
+		"defeated": "If my defeat is, without any doubt, the will of God, then I will accept it.",
+		"introduction": "God blesses those who deserve it. I am Isabel of Spain.",
+		"neutralHello": "Greetings.",
+		"hateHello": "Well?",
+		"tradeRequest": "I hope this deal will receive your blessing.",
+		"outerColor": [84,26,26],
+		"innerColor": [255,168,168],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Seven Cities of Gold",
+		"uniques": ["[+300 Gold] for discovering a Natural Wonder","[+50]% Golden Age length","[+2] Sight <for [All] units>","[+10]% Strength <on foreign continents>","[+20]% maintenance costs <for [Military] units>"]
+		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
+			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
+			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
+			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"],
+        "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     }
 
 ]
