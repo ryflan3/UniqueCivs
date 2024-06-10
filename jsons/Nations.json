@@ -410,7 +410,7 @@
 		"outerColor": [139,69,19],
 		"innerColor": [255,255,255],
 		"uniqueName": "Warrior Culture",
-		"uniques": ["[+15]% Production when constructing [Melee] units [in all cities]","[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+2 Production, +2 Gold, +1 Food] from every [Pasture]","[+5]% happiness from [Population] [in all cities]","[-1] Movement <for [Water] units>","[-1] Sight <for [Water] units>","[-10]% Strength <for [Water] units>"],
+		"uniques": ["[+15]% Production when constructing [Melee] units [in all cities]","[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+2 Production, +2 Gold, +1 Food] from every [Pasture]","[-5]% Unhappiness from [Population] [in all cities]","[-1] Movement <for [Water] units>","[-1] Sight <for [Water] units>","[-10]% Strength <for [Water] units>"],
 
     "cities": ["Ulundi", "Nongoma", "KwaDukuza", "eShowe", "Empangeni", "Richards Bay", "Durban", "Pietermaritzburg", "Ladysmith", "Vryheid", "Newcastle", "Greytown", "Ixopo", "Bergville", "Hluhluwe", "Stanger", "Mtubatuba", "Hlabisa", "Mkuze", "Eshowe", "Ndwedwe", "Kokstad", "Harding", "Utrecht", "Melmoth", "Nqutu", "Pomeroy", "Winterton", "Ekuvukeni", "Mandini", "Mpumalanga", "Dundee", "Paulpietersburg", "Ulundi North", "Ongoye", "Zululand", "KwaMashu", "Elandskraal", "Mahlabatini", "Abaqulusi"],
     "spyNames": ["Senzangakhona", "Cetshwayo", "Nandi", "Mpande", "Nokuthula", "Nkosinathi", "Bhekizitha", "Thembeka", "Lindokuhle", "Thandeka", "Simphiwe", "Nomvula", "Vusumuzi", "Zandile", "Sibongile", "Thamsanqa", "Bongani", "Gugulethu", "Thandiwe", "Sipho"]
