@@ -40,7 +40,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * tent https://thenounproject.com/icon/tent-16637/ by sjbdr
 * shakespeare https://thenounproject.com/icon/shakespeare-50024/ by daniel turner
 * executioner https://thenounproject.com/icon/executioner-110008/ by igor yanovsky
-* alamo https://thenounproject.com/icon/alamo-3653263/ by linseed studio
+* alamo https://thenounproject.com/icon/the-alamo-2322256/ by Phan tham Loc
 * 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
