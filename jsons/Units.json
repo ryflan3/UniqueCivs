@@ -270,5 +270,38 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Longbowman",
+		"unitType": "Archery",
+		"range": 2,
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 19,
+		"replaces": "Crossbowman",
+		"uniqueTo": "England",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Extended Range"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Ship of the Line",
+		"unitType": "Ranged Water",
+		"replaces": "Frigate",
+		"uniqueTo": "England",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 35,
+		"cost": 185,
+		"requiredResource": "Iron",
+		"uniques": ["[+1] Sight","[+1] Range"],
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
 	}
 ]
