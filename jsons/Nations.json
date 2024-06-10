@@ -387,7 +387,7 @@
 		"innerColor": [0,128,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Web of Shadows",
-		"uniques": ["New spies start with [1] level(s)","Gain an extra spy <upon entering the [Ancient era]>", "Gain an extra spy <upon entering the [Classical era]>", "Gain an extra spy <upon entering the [Medieval era]>","[-25]% enemy spy effectiveness [in all cities]", "[-99]% enemy spy effectiveness [in capital]", "Land units may cross [Mountain] tiles","[-15]% [Science] [in all cities]"],
+		"uniques": ["New spies start with [1] level(s)","Gain an extra spy <upon entering the [Ancient era]>", "Gain an extra spy <upon entering the [Classical era]>", "Gain an extra spy <upon entering the [Medieval era]>","[-25]% enemy spy effectiveness [in all cities]", "[-99]% enemy spy effectiveness [in capital]", "Land units may cross [Mountain] tiles after the first [Great General] is earned","[-15]% [Science] [in all cities]"],
 
     "cities": ["Alamut", "Masyaf", "Girdkuh", "Lambsar", "Tabas", "Qain", "Shahdiz", "Darband", "Sa'adatabad", "Birjand", "Qazvin", "Damghan", "Tun", "Semnan", "Siah-Kuh", "Kuhistan", "Kerman", "Nishapur", "Rayy", "Isfahan", "Yazd", "Kashan", "Zanjan", "Maragheh", "Qom", "Herat", "Hamadan", "Tabriz", "Tus", "Sari", "Shahrud", "Bam", "Samarqand", "Balkh", "Merv", "Qandahar", "Baghdad", "Basra", "Mosul"],
     "spyNames": ["Ali", "Hassan", "Fatima", "Khalid", "Zaynab", "Umar", "Layla", "Yusuf", "Aisha", "Ibrahim", "Salim", "Mariam", "Bilal", "Samira", "Nadia", "Rashid", "Amin", "Zara", "Farid", "Leila"]
