@@ -321,7 +321,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Inquisitor",
+		"name": "Spanish Inquisitor",
 		"unitType": "Civilian",
 		"replaces": "Inquisitor",
 		"uniqueTo": "Spain",
