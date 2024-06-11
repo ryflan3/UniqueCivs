@@ -330,5 +330,17 @@
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[+1] Sight", "Hidden when religion is disabled", "Unbuildable", "Religious Unit","May enter foreign tiles without open borders",],
 		"movement": 4
-	}
+	},
+	{
+        "name": "Great Admiral",
+        "unitType": "Civilian Water",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+            "Unbuildable",
+            "Uncapturable",
+            "Can be earned through combat <for [Water] units>",
+            "Great Person - [Navy]",
+        ],
+        "movement": 6
+    }
 ]
