@@ -339,8 +339,7 @@
             "Unbuildable",
             "Uncapturable",
             "Can be earned through combat <for [Water] units>",
-            "Great Person - [Navy]",
-        ],
+            "Great Person - [Navy]","Can instantly construct a [Dry Dock] improvement <by consuming this unit>"],
         "movement": 6
     }
 ]
