@@ -335,7 +335,7 @@
         "name": "Great Admiral",
         "unitType": "Civilian Water",
         "uniques": [
-            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+            "[+15]% Strength bonus for [{Military} {Water}] units within [3] tiles",
             "Unbuildable",
             "Uncapturable",
             "Can be earned through combat <for [Water] units>",
