@@ -26,6 +26,7 @@
             "[+15]% Production when constructing [All] buildings [in this city] <before the [Renaissance era]>"
         ]
     },
+	  {
 	"name": "God of the Forge",
         "type": "Pantheon",
         "uniques":[
