@@ -280,7 +280,7 @@
 	{
 		"name": "Dutch Windmill",
 		"replaces": "Windmill",
-		"uniqueTo": "Netherlands",
+		"uniqueTo": "The Netherlands",
 		"production": 3,
 		"food": 2,
 		"specialistSlots": {"Engineer": 1},
@@ -292,7 +292,7 @@
 	{
 		"name": "Amsterdam Exchange Bank",
 		"replaces": "Bank",
-		"uniqueTo": "Netherlands",
+		"uniqueTo": "The Netherlands",
 		"gold": 3,
 		"specialistSlots": {"Merchant": 2},
 		"uniques": ["[+1 Gold] per [8] population [in this city]"],
