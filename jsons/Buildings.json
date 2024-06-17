@@ -251,4 +251,17 @@
                 "uniques": ["Unbuildable <hidden from users>","Down Tax","Instantly consumes [5] [Taxation(%)]","[-1 Gold] per [5] population [in all cities]","[-10]% Unhappiness from [Population] [in all cities]"]
 
 },
+	{
+		"name": "Chateau",
+		"replaces": "Castle",
+		"uniqueTo": "France",
+		"gold": 3,
+		"culture": 1
+		"cityStrength": 8,
+		"cityHealth": 30,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques":
+	},
 ]
