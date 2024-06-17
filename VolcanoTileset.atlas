@@ -3,14 +3,14 @@ size: 32, 64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Volcanic Soil
+TileSets/HexaRealm/Tiles/Volcanic Soil
   rotate: false
   xy: 0, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Volcano
+TileSets/HexaRealm/Tiles/Volcano
   rotate: false
   xy: 0, 28
   size: 32, 36
