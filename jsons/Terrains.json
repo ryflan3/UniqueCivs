@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Volcano",
-		"type": "NaturalWonder",
+		"type": "TerrainFeature",
 		"movementCost": 2,
 		"defenceBonus": 0.9,
             "impassable": true,
@@ -140,6 +140,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra","Grassland"],
-		"uniques": ["Rare feature", "Occurs in groups of [1] to [2000000] tiles"]
+		"uniques": ["Rare feature", "Occurs in groups of [1] to [12000] tiles"]
 	}
 ]
