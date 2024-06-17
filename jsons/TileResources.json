@@ -69,5 +69,10 @@
 			                "Doesn't generate naturally <in [Tundra] tiles>",
 			                "Doesn't generate naturally <in [Desert] tiles>",
 		                       ]
-	}
+	},
+	{
+                "name": "Taxation(%)",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled","Excluded from map editor","Cannot be traded"],
+        }
 ]
