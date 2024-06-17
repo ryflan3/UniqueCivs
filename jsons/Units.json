@@ -369,5 +369,19 @@
 		"obsoleteTech": "Plastics",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>","[+1] Movement <in [Foreign Land] tiles>"],
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "Sea Beggar",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "The Netherlands",
+		"movement": 6,
+		"strength": 27,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "Coastal Raider II", "Supply"],
+		"uniques": ["May capture killed [Water] units"],
+		"attackSound": "cannon"
+	},
 ]
