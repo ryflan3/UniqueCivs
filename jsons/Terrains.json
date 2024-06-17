@@ -108,7 +108,7 @@
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource.",
-		"With <[60]% chance> Becomes [Beach] when adjacent to [Grassland]"]
+		"Becomes [Beach] when adjacent to [Grassland] <with [60]% chance>"]
 	},
 	{
 		"name": "Ocean",
