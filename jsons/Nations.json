@@ -524,7 +524,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away","[+50]% [Gold] from Trade Routes", "[+2 Food] from [Flood plains] tiles",],
+		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away","[+50]% [Gold] from Trade Routes", "[+2 Food] from [Flood plains] tiles","[+50]% [Gold] <during a Golden Age>","[+15]% [Science] <during a Golden Age>", "[+2 Happiness] [in capital] <after founding a Pantheon>"],
 		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "Den Haag", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
         "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
     },
