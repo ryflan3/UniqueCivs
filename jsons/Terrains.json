@@ -6,7 +6,7 @@
 		"gold": 1,
 		"movementCost": 1,
                 "RGB": [255, 245, 189]
-		"uniques": ["Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",]
+
 	},
 
         // Vanila
@@ -62,7 +62,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource","Becomes [Volcanic Soil] when adjacent to [Volcano]"]
         },
         {
                 "name": "Tundra",
@@ -109,7 +109,7 @@
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource.",
-		"Becomes [Beach] when adjacent to [Grassland] <with [30]% chance>"]
+		"Becomes [Beach] when adjacent to [Grassland] <in all except [Hybrid] Regions"]
 	},
 	{
 		"name": "Ocean",
