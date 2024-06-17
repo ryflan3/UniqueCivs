@@ -1,0 +1,10 @@
+[
+	// Coastal
+	{
+		"name": "Beach",
+                "type": "Land",
+		"gold": 1,
+		"movementCost": 1,
+                "RGB": [255, 245, 189]
+	},
+]
