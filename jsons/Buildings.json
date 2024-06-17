@@ -240,5 +240,14 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "[+10]% Natural religion spread [in this city]","Destroyed when the city is captured"]
 	},
-		
-]
+	   {
+                "name": "+10% Tax",
+                "cost": 25,
+                "uniques": ["Unbuildable <hidden from users>","[+1 Gold] per [5] population [in all cities]","[+10]% Unhappiness from [Population] [in all cities]"]
+	},
+	{
+	        "name": "-10% Tax",
+                "cost": 25,
+                "uniques": ["Unbuildable <hidden from users>", "[-1 Gold] per [5] population [in all cities]","[-10]% Unhappiness from [Population] [in all cities]"]
+
+}
