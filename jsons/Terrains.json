@@ -139,7 +139,7 @@
 		"turnsInto": "Mountain", 
 		"impassable": true, 
 		"unbuildable": true,
-		"occursOn": ["Plains", "Desert", "Tundra","Grasslands"],
+		"occursOn": ["Plains", "Desert", "Tundra","Grassland"],
 		"uniques": ["Rare feature", "Occurs in groups of [1] to [2000000] tiles"]
 	}
 ]
