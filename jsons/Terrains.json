@@ -6,6 +6,7 @@
 		"gold": 1,
 		"movementCost": 1,
                 "RGB": [255, 245, 189]
+		"uniques": ["Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",]
 	},
 
         // Vanila
