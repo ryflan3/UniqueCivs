@@ -7,6 +7,14 @@
 		"movementCost": 1,
                 "RGB": [255, 245, 189]
 	},
+	{
+		"name": "Valley",
+		"food": 1,
+                "type": "Land",
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+		 "uniques":["Doesn't generate naturally","Rare feature","Becomes [Volcanic Soil] when adjacent to [Volcano]"] 
+	},
         // Vanila
         {
                 "name": "Grassland",
@@ -139,6 +147,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra"],
-		"uniques": ["Rare feature","Neighboring tiles will convert to [Volcanic Soil]", "Occurs in groups of [1] to [6000] tiles"]
+		"uniques": ["Rare feature","Neighboring tiles will convert to [Valley]", "Occurs in groups of [1] to [6000] tiles"]
 	}
 ]
