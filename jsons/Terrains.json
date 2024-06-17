@@ -61,8 +61,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.","Becomes [Volcanic Soil] when adjacent to [Volcano]"
-                        ]
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
         },
         {
                 "name": "Tundra",
@@ -80,7 +79,7 @@
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource.","Becomes [Volcanic Soil] when adjacent to [Volcano]"
+            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."
                ]
 	},
 	{
