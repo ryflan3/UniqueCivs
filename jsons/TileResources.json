@@ -74,5 +74,13 @@
                 "name": "Taxation(%)",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled","Excluded from map editor","Cannot be traded"],
-        }
+        },
+	{
+		"name": "Fish",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"food": 1,
+		"improvement": "Fishing Boats",
+		"uniques": ["Generated on every [6] tiles <in [{Featureless} {Coast}] tiles>"]
+	}
 ]
