@@ -19,5 +19,12 @@
         "type": "Pantheon",
         "uniques": ["[+2 Faith] from every [Gems]","[+2 Faith] from every [Pearls]"]
     },
+	{
+        "name": "City Patron Godess",
+        "type": "Pantheon",
+        "uniques": [
+            "[+15]% Production when constructing [All] buildings [in this city] <before the [Renaissance era]>"
+        ]
+    },
 
 ]
