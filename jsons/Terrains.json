@@ -61,7 +61,7 @@
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-                        "Becomes [Grassland] when adjacent to [Coast]","Becomes [Volcanic Soil] when adjacent to [Volcano]"]
+                        "Becomes [Volcanic Soil] when adjacent to [Volcano]"]
         },
         {
                 "name": "Tundra",
@@ -108,7 +108,7 @@
 		"uniques": ["[+2] to Fertility for Map Generation",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource.",
-		"<with [30]% chance> Becomes [Beach] when adjacent to [Grassland]"]
+		"Becomes [Beach] when adjacent to [Grassland] <with [30]% chance>"]
 	},
 	{
 		"name": "Ocean",
