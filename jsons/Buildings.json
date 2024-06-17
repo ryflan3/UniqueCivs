@@ -262,7 +262,6 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques":
 	},
 	 {
     "name": "Versailles",
@@ -277,5 +276,5 @@
     "cost": 0,
     "uniqueTo": "France",
     "uniques": ["Indicates the capital city", "[+1 Gold] from every [Luxury resource] [in this city]"]
-  },
+  }
 ]
