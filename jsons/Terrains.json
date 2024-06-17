@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Volcano",
-		"type": "TerrainFeature",
+		"type": "NaturalWonder",
 		"movementCost": 2,
 		"defenceBonus": 0.9,
             "impassable": true,
