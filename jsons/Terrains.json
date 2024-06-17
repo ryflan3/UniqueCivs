@@ -32,7 +32,7 @@
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-        "Becomes [Grassland] when adjacent to [Coast]","Becomes [Volcanic Soil] when adjacent to [Volcano]"]
+        "Becomes [Grassland] when adjacent to [Coast]"]
     },
 	{
 		"name": "Plains",
