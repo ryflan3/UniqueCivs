@@ -7,14 +7,7 @@
 		"movementCost": 1,
                 "RGB": [255, 245, 189]
 	},
-	{
-		"name": "Valley",
-		"food": 1,
-                "type": "Land",
-		"movementCost": 1,
-                "RGB": [0, 163, 0],
-		 "uniques":["Doesn't generate naturally","Rare feature","Becomes [Volcanic Soil] when adjacent to [Volcano]"] 
-	},
+
         // Vanila
         {
                 "name": "Grassland",
@@ -40,7 +33,7 @@
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-        "Becomes [Grassland] when adjacent to [Coast]"]
+        "Becomes [Volcanic Soil] when adjacent to [Volcano]"]
     },
 	{
 		"name": "Plains",
@@ -147,6 +140,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra"],
-		"uniques": ["Rare feature","Neighboring tiles will convert to [Valley]", "Occurs in groups of [1] to [10000] tiles"]
+		"uniques": ["Rare feature","Neighboring tiles will convert to [Grassland]", "Occurs in groups of [1] to [10000] tiles"]
 	}
 ]
