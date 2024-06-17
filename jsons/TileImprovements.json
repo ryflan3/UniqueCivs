@@ -58,7 +58,6 @@
             "Pillaging this improvement yields approximately [+20 Gold]"
         ]
     },
-	[
         {
                 "name": "Shipyard",
                 "terrainsCanBeBuiltOn": ["Beach"],
@@ -89,5 +88,5 @@
 		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
         }
-]
+
 ]
