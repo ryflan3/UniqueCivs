@@ -289,4 +289,16 @@
 		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
 	},
+	{
+		"name": "Amsterdam Exchange Bank",
+		"replaces": "Bank",
+		"uniqueTo": "Netherlands",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 2},
+		"uniques": ["[+1 Gold] per [8] population [in this city]"],
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 ]
