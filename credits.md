@@ -41,6 +41,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * shakespeare https://thenounproject.com/icon/shakespeare-50024/ by daniel turner
 * executioner https://thenounproject.com/icon/executioner-110008/ by igor yanovsky
 * alamo https://thenounproject.com/icon/the-alamo-2322256/ by Phan tham Loc
+* chateau castle https://thenounproject.com/icon/chateau-castle-2107703/ by vector market
 * 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
