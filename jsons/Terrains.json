@@ -61,7 +61,7 @@
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-                        "Becomes [Volcanic Soil] when adjacent to [Volcano]"]
+                        ]
         },
         {
                 "name": "Tundra",
@@ -80,7 +80,7 @@
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource.",
-               "Becomes [Volcanic Soil] when adjacent to [Volcano]"]
+               ]
 	},
 	{
 		"name": "Desert",
@@ -97,7 +97,7 @@
             "Becomes [Flood plains] when adjacent to [River]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
-                "Becomes [Volcanic Soil] when adjacent to [Volcano]"]
+                ]
         },
 	{
 		"name": "Coast",
@@ -139,6 +139,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra"],
-		"uniques": ["Rare feature"]
+		"uniques": ["Rare feature","Neighboring tiles will convert to [Volcanic Soil]", "Occurs in groups of [1] to [6000] tiles"]
 	}
 ]
