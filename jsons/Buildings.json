@@ -243,12 +243,12 @@
 	   {
                 "name": "+10% Tax",
                 "cost": 25,
-                "uniques": ["Unbuildable <hidden from users>","Rise Tax","[+1 Gold] per [5] population [in all cities]","[+10]% Unhappiness from [Population] [in all cities]"]
+                "uniques": ["Unbuildable <hidden from users>","Rise Tax","Instantly provides [5] [Taxation(%)]","[+1 Gold] per [5] population [in all cities]","[+10]% Unhappiness from [Population] [in all cities]"]
 	},
 	{
 	        "name": "-10% Tax",
                 "cost": 25,
-                "uniques": ["Unbuildable <hidden from users>","Down Tax", "[-1 Gold] per [5] population [in all cities]","[-10]% Unhappiness from [Population] [in all cities]"]
+                "uniques": ["Unbuildable <hidden from users>","Down Tax","Instantly consumes [5] [Taxation(%)]","[-1 Gold] per [5] population [in all cities]","[-10]% Unhappiness from [Population] [in all cities]"]
 
 },
 ]
