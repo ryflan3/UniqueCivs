@@ -139,6 +139,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra","Grassland"],
-		"uniques": ["Rare feature", "Occurs in groups of [1] to [25000] tiles"]
+		"uniques": ["Rare feature", "Must not be on [2] largest landmasses"]
 	}
 ]
