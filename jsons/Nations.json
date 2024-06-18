@@ -551,7 +551,9 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "The Great Warpath",
-		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","[+1 Happiness] per [1] social policies adopted <in [in all cities] cities>"],
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","[+1 Happiness] per [3] social policies adopted <in [in all cities] cities>","[10]% Food is carried over after population increases [in all cities]","[+1 Gold, +2 Production, +1 Culture] in cities on [Forrest] tiles", "[-1 Production] from [Mine] tiles [in all cities]","Science gained from research agreements [-80]%"
+
+],
 		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
