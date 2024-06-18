@@ -139,6 +139,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra","Grassland"],
-		"uniques": ["Rare feature","Must be adjacent to [3] [Elevated] tiles"]
+		"uniques": ["Rare feature","Must be adjacent to [4] [Elevated] tiles"]
 	}
 ]
