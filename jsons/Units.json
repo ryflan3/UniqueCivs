@@ -384,4 +384,33 @@
 		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"
 	},
+	{
+		"name": "Onondaga Scout",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Iroquois",
+		"movement": 3,
+		"strength": 8,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects", "Never appears as a Barbarian unit","[+2] Sight","May enter foreign tiles without open borders"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Mohawk Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Iroquois",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["[Mohawk Warrior] ability", "[Woodsman] ability"],
+		"uniques": ["Ignore terrain cost"],
+		"attackSound": "metalhit"
+	}
 ]
