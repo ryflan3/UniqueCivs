@@ -134,11 +134,11 @@
 		"type": "TerrainFeature",
 		"movementCost": 2,
 		"defenceBonus": 0.9,
-            "impassable": true,
+                "impassable": true,
 		"overrideStats": true, 
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra","Grassland"],
-		"uniques": ["Occurs in groups of [1] to [1000] tiles"]
+		"uniques": ["Rare feature","Must be adjacent to [3] [Elevated] tiles"]
 	}
 ]
