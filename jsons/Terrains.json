@@ -139,6 +139,6 @@
 		"impassable": true, 
 		"unbuildable": true,
 		"occursOn": ["Plains", "Desert", "Tundra","Grassland"],
-		"uniques": ["Occurs in groups of [1] to [2000] tiles"]
+		"uniques": ["Occurs in groups of [1] to [1000] tiles"]
 	}
 ]
