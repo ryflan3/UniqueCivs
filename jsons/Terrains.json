@@ -122,7 +122,7 @@
 	},
 	{
 		"name": "Volcanic Soil",
-		"type": "Land",
+		"type": "TerrainFeature",
 		"food": 3,
 		"movementCost": 2,
 		"defenceBonus": 0.1,
@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Volcano",
-		"type": "Land",
+		"type": "TerrainFeature",
 		"movementCost": 2,
 		"defenceBonus": 0.9,
             "impassable": true,
