@@ -402,15 +402,15 @@
 		"unitType": "Sword",
 		"uniqueTo": "Iroquois",
 		"replaces": "Swordsman",
-		"movement": 3,
+		"movement": 4,
 		"strength": 16,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
-		"promotions": ["[Mohawk Warrior] ability", "[Woodsman] ability"],
-		"uniques": ["Ignore terrain cost"],
+		"promotions": ["[Mohawk Warrior] ability"],
+		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
 		"attackSound": "metalhit"
 	}
 ]
