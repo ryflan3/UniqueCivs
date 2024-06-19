@@ -273,7 +273,7 @@
 	{
 		"name": "Exploration",
 		"uniques": ["[+1] Movement <for [{Military} {Water}] units>",
-			"[+1] Sight <for [{Military} {Water}] units>","[+2] Movement <for [Great Admiral] units>, "Free [Great Admiral] appears"],
+			"[+1] Sight <for [{Military} {Water}] units>","[+2] Movement <for [Great Admiral] units>","Free [Great Admiral] appears"],
 		"era": "Medieval era",
 		"policies": [
 			{
