@@ -94,5 +94,5 @@
 		"replaces": "Barbarian encampment"
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Excluded from map editor","Provides military units every ≈[3] turns"],
-
+   },
 ]
