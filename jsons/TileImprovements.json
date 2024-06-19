@@ -87,6 +87,12 @@
 		"techRequired": "Guilds",
 		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
-        }
+        },
+	{
+		"name": "Ordu",
+		"uniqueTo": "Mongolia",
+		"replaces": "Barbarian encampment"
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Excluded from map editor","Provides military units every ≈[3] turns"],
 
 ]
