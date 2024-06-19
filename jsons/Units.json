@@ -442,5 +442,24 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","Heal this unit by [20] HP <upon losing at least [20] HP in a single attack> <once>"],
 		"promotions":["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Keshik",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": "Mongolia",
+		"range": 2,
+		"movement": 5,
+		"strength": 18,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+10]% Strength <when fighting in [Plains] tiles>"],
+		"promotions": ["Great Generals I", "Quick Study"],
+		"attackSound": "arrow"
+		
 	}
 ]
