@@ -475,5 +475,20 @@
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 5
-	}
+	},
+	{
+		"name": "Horse Archer",
+		"unitType": "Archery",
+		"uniqueTo": "The Huns",
+		"replaces": "Chariot Archer",
+		"movement": 5,
+		"strength": 8,
+		"rangedStrength": 11,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow"
+	},
 ]
