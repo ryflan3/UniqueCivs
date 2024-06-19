@@ -567,7 +567,7 @@
             },
             {
                 "name": "National Defense Complete",
-                "uniques": ["[+50]% Production when constructing [Defense] buildings [in all cities]","[+60]% Production when constructing [Bomb Shelter] buildings [in all cities]","[+15]% City Strength from defensive buildings"]
+                "uniques": ["[+50]% Production when constructing [Defense] buildings [in all cities]","[+60]% Production when constructing [Bomb Shelter] buildings [in all cities]","[+15]% City Strength from defensive buildings","[Gold] cost of purchasing [Defense] buildings [-50]%"]
             }
         ]
     }
