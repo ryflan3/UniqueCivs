@@ -623,6 +623,34 @@
 			"Gaugamela","Harmozeia","Ekatompylos","Izata","Kampada","Kapisa","Karmana","Kounaxa","Kuganaka","Nautaka",
 			"Paishiyauvada","Patigrbana","Phrada"],
         "spyNames": ["Azi", "Dabir", "Firuz", "Gaspar", "Shahzad", "Aga", "Marjane", "Peri", "Sartaj ", "Yasmin"]
+    },
+	{
+		"name": "Mongolia",
+		"leaderName": "Genghis Khan",
+		"adjective": ["Mongolian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "O great Temuujin, immortal leader of the mighty Mongol Empire! Your name alone was enough to make cities crumble, and the sound of the mighty Mongol cavalry to make your enemies flee! O Great Khan! Once Northern Asia united into a mighty people, producing one of the greatest armies the world has ever known, your skillful mounted archers conquered in only a few years, most of China, Eastern Asia, and even reached the gates of Europe at the West. With cunning diplomacy and brilliant warfare, you swept your enemies one after another, creating the greatest empire ever seen, reducing Roman or Greek conquests to minor achievements.",
+        "startIntroPart2": "Divine Temuujin, battles and conquests run through the veins of the Mongols. Are you ready to shatter the will of your enemies? Will your cavalry ride in the steppes once again and strike as lightning and thunder? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You stand in the way of my armies. Let us solve this like warriors!",
+		"attacked": "No more words. Today, Mongolia charges toward your defeat.",
+		"defeated": "You have hobbled the Mongolian clans. My respect for you nearly matches the loathing. I am waiting for my execution.",
+		"introduction": "I am Temuujin, conqueror of cities and countries. Before me lie future Mongolian lands. Behind me is the only cavalry that matters.",
+		"neutralHello": "Hello.",
+		"hateHello": "So what now?",
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"outerColor": [81,0,9],
+		"innerColor": [255,120,0],
+		"favoredReligion": "Tengriism",
+		"uniqueName": "Mongol Terror",
+		"uniques": ["[+35]% Strength <vs [City-States]>", "[+2] Movement <for [Mounted] units>", ],
+		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
+			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
+			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
+			"Har-Ayrag","Nalayh","Tes"],
+        "spyNames": ["Asashōryū", "Tömöriin", "Zevegiin", "Jigjidiin", "Enkhbat", "Mönkhbayar", "Gündegmaa", "Ssima", "Batachikhan", "Chulunny"]
     }
 ]
 
