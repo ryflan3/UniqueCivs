@@ -47,6 +47,6 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * canoe https://thenounproject.com/icon/canoe-6074184/ Andhika Pramanto
 * Egypt https://thenounproject.com/icon/egypt-5513182/ by Anwar Hossain
 * persepolis https://thenounproject.com/icon/persepolis-2732798/ by Hadi
-
+* silk https://thenounproject.com/icon/silk-4412164/ by Icongeek26
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
