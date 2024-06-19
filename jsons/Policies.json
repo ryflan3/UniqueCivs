@@ -560,4 +560,48 @@
 			"uniques": ["[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]"]
         }
     ]
+},
+{
+		"name": "National Defense",
+		"era": "Modern era",
+		"uniques": ["Gain a free [Police Station] in all [non capital cities]"],
+		"policies": [
+			{
+				"name": "Patriotic Valor",
+				"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+				"row": 1,
+				"column": 2
+			},
+			{
+				"name": "Master of Disguise",
+				"uniques": ["Promotes all spies [1] time(s)"],
+				"row": 1,
+				"column": 4
+			},
+						{
+				"name": "Impenetrable Walls",
+				"uniques":["[+35]% Strength for cities <when defending>"],,
+				"requires": ["Oligarchy"],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Aerial Supremacy",
+				"uniques": ["[+15]% Strength <for [Air] units> <vs [Land] units> <when fighting in [Friendly Land] tiles>"],
+				"requires": ["Impenetrable Walls"],
+				"row": 3,
+				"column": 3
+			},
+			{
+				"name": "Eagle-Eye Patrols",
+				"uniques": ["[+50]% Strength when performing Air Sweep <for [All] units>"],
+				"requires": ["Impenetrable Walls"],
+				"row": 3,
+				"column": 5
+			},
+			{
+				"name": "Tradition Complete",
+				"uniques": ["[+50]% Production when constructing [Defense] buildings [in all cities]","[+60]% Production when constructing [Bomb Shelter] buildings [in all cities]","[+15]% City Strength from defensive buildings"]
+			}
+		]
 }
