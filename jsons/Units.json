@@ -412,5 +412,20 @@
 		"promotions": ["[Mohawk Warrior] ability"],
 		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "War Chariot",
+		"unitType": "Archery",
+		"uniqueTo": "Egypt",
+		"replaces": "Chariot Archer",
+		"movement": 5,
+		"strength": 8,
+		"rangedStrength": 12,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Can move after attacking"],
+		"attackSound": "arrow"
 	}
 ]
