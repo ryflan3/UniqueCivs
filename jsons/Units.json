@@ -491,4 +491,19 @@
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Battering Ram",
+		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
+		"replaces": "Spearman",
+		"uniqueTo": "The Huns",
+		"movement": 2,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-15]% Strength <when defending>"],
+		"promotions":  ["Cover I"],
+		"attackSound": "throw"
+	}
 ]
