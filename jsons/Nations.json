@@ -675,7 +675,7 @@
 
         "favoredReligion": "Tengriism",
 		"uniqueName": "Scourge of God",
-		"uniques": ["[+2 Production, +1 Food] from every [Pasture]", "Cities are razed [3] times as fast", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game", "Receive triple Gold from Barbarian encampments and pillaging Cities", "When conquering an encampment, earn [30] Gold and recruit a Barbarian unit", "Notified of new Barbarian encampments", "When defeating a [Barbarian] unit, earn [5] Gold and recruit it","[+15]% unhappiness from the number of cities"],
+		"uniques": ["[+2 Production, +1 Food] from every [Pasture]", "Cities are razed [3] times as fast", "Starts with [Animal Husbandry]","\"Borrows\" city names from other civilizations in the game", "Receive triple Gold from Barbarian encampments and pillaging Cities", "When conquering an encampment, earn [30] Gold and recruit a Barbarian unit", "Notified of new Barbarian encampments", "When defeating a [Barbarian] unit, earn [5] Gold and recruit it","[+15]% unhappiness from the number of cities"],
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
     }
 ]
