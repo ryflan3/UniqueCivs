@@ -326,5 +326,16 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
-	}
+	},
+	{
+		"name": "Nilometer",
+		"replaces": "Water Mill",
+		"uniqueTo": "Egypt",
+		"maintenance": 1,
+		"food": 4,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]","[+20]% Yield from every [River]"],
+		"requiredTech": "The Wheel"
+	},
 ]
