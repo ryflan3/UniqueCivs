@@ -645,7 +645,7 @@
 		"innerColor": [255,120,0],
 		"favoredReligion": "Tengriism",
 		"uniqueName": "Mongol Terror",
-		"uniques": ["[+35]% Strength <vs [City-States]>", "[+2] Movement <for [Mounted] units>", ],
+		"uniques": ["[+35]% Strength <vs [City-States]>", "[+2] Movement <for [Mounted] units>","New [Mounted] units start with [10] Experience [in all cities]", "When defeating a [Mounted] unit, earn [5] Gold and recruit it <with [50]% chance>","Double quantity of [Horses] produced","[-15]% growth [in all cities]"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
