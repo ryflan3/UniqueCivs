@@ -8,34 +8,34 @@
                 "name": "Aristocracy",
                 "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", "[+1 Happiness] per [10] population [in all cities]"],
                 "row": 1,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Oligarchy",
                 "uniques": ["Units in cities cost no Maintenance", "[+50]% Strength for cities <with a garrison> <when attacking>"],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "Legalism",
                 "uniques":["Provides the cheapest [Culture] building in your first [4] cities for free"],
                 "requires": ["Oligarchy"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Landed Elite",
                 "uniques": ["[+10]% growth [in capital]", "[+2 Food] [in capital]"],
                 "requires": ["Legalism"],
                 "row": 3,
-                "column": 3
+                "column": 2
             },
             {
                 "name": "Monarchy",
                 "uniques": ["[+1 Gold, +1 Happiness] per [2] population [in capital]"],
                 "requires": ["Legalism"],
                 "row": 3,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "Tradition Complete",
@@ -448,7 +448,7 @@
                 "name": "Elite Forces",
                 "uniques": ["[+25]% Strength <for [Wounded] units>"],
                 "row": 1,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Fortified Borders",
@@ -536,34 +536,34 @@
                 "name": "Patriotic Valor",
                 "uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
                 "row": 1,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Master of Disguise",
                 "uniques": ["Promotes all spies [1] time(s)"],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "Impenetrable Walls",
                 "uniques":["[+35]% Strength for cities <when defending>"],
                 "requires": ["Patriotic Valor"],
-                "row": 2,
-                "column": 4
+                "row": 1,
+                "column": 3
             },
             {
                 "name": "Aerial Supremacy",
                 "uniques": ["[+15]% Strength <for [Air] units> <vs [Land] units> <when fighting in [Friendly Land] tiles>"],
                 "requires": ["Impenetrable Walls"],
-                "row": 3,
-                "column": 3
+                "row": 2,
+                "column": 2
             },
             {
                 "name": "Naval Vanguard",
                 "uniques": ["[+15]% Strength <for [Water] units> <when fighting in [Friendly Land] tiles>"],
                 "requires": ["Impenetrable Walls"],
-                "row": 3,
-                "column": 5
+                "row": 2,
+                "column": 4
             },
             {
                 "name": "National Defense Complete",
