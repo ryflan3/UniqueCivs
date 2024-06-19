@@ -439,7 +439,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Heal this unit by [20] HP <upon being defeated> <once>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","<upon being defeated> Heal this unit by [20] HP <once>"],
 		"promotions":["[Persian Immortal] ability"],
 		"attackSound": "metalhit"
 	}
