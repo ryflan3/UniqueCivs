@@ -427,5 +427,20 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Can move after attacking"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Persian Immortal",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Persia",
+		"movement": 2,
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Heal this unit by [20] HP <upon being defeated> <once>"],
+		"promotions":["[Persian Immortal] ability"],
+		"attackSound": "metalhit"
 	}
 ]
