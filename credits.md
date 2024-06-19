@@ -45,6 +45,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * Dutch Windmill https://thenounproject.com/icon/dutch-windmill-5459004/ by brickclay
 * bank https://thenounproject.com/icon/bank-6882510/ by lano yado
 * canoe https://thenounproject.com/icon/canoe-6074184/ Andhika Pramanto
+* Egypt https://thenounproject.com/icon/egypt-5513182/ by Anwar Hossain
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
