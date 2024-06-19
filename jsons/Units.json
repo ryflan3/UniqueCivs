@@ -505,5 +505,18 @@
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-15]% Strength <when defending>"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
-	}
+	},
+	{
+		"name": "Ger Camp",
+		"replaces": "Stable",
+		"uniqueTo": "The Huns",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+25]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Food] from [Cattle] tiles [in this city]",
+			"[+2 Production] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Food] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
 ]
