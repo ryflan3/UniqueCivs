@@ -362,5 +362,16 @@
 		"uniques":["[+1 Gold] from each Trade Route"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
-	}
+	},
+	{
+		"name": "Silk Routes",
+		"replaces": "Market",
+		"uniqueTo": "Mongolia",
+		"gold": 3,
+		"uniques":["[+1 Gold] from each Trade Route"],
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
+	},
 ]
