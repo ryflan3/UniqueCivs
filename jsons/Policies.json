@@ -19,8 +19,7 @@
             {
                 "name": "Legalism",
                 "uniques":["Provides the cheapest [Culture] building in your first [4] cities for free"],
-                "requires": ["Oligarchy"],
-                "row": 2,
+                "row": 1,
                 "column": 3
             },
             {
@@ -547,7 +546,6 @@
             {
                 "name": "Impenetrable Walls",
                 "uniques":["[+35]% Strength for cities <when defending>"],
-                "requires": ["Patriotic Valor"],
                 "row": 1,
                 "column": 3
             },
