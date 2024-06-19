@@ -584,7 +584,7 @@
 		"innerColor": [83, 0, 208],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+2 Production] from every specialist [in all cities]","[+1 Gold, +2 Food] from every [Flood Plain, River]","[+2 Faith, +2 Culture] from all [Religion] buildings]",
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+2 Production] from every specialist [in all cities]","[+1 Gold, +2 Food] from every [Flood Plain, River]","[+2 Faith, +2 Culture] from all [Religion] buildings]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
