@@ -338,4 +338,17 @@
 		"uniques": ["Must be on [River]","[+20]% Yield from every [River]"],
 		"requiredTech": "The Wheel"
 	},
+	{
+		"name": "Satrap's Court",
+		"replaces": "Bank",
+		"uniqueTo": "Persia",
+		"gold": 3,
+		"production": 1,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	}
 ]
