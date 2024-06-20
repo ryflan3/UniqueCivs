@@ -26,14 +26,14 @@
                 "name": "Landed Elite",
                 "uniques": ["[+10]% growth [in capital]", "[+2 Food] [in capital]"],
                 "requires": ["Legalism"],
-                "row": 3,
+                "row": 2,
                 "column": 2
             },
             {
                 "name": "Monarchy",
                 "uniques": ["[+1 Gold, +1 Happiness] per [2] population [in capital]"],
                 "requires": ["Legalism"],
-                "row": 3,
+                "row": 2,
                 "column": 4
             },
             {
