@@ -708,7 +708,7 @@
 		"innerColor": [255,221,0],
 		
 		"uniqueName": "Ejército Patriota",
-		"uniques": ["[+100]% XP gained from combat <for [Military] units> <during a Golden Age>","[+1] Happiness from each type of luxury resource","All healing effects doubled <for [Military] units>","[+2 Food, +2 Gold] from every [Plantation]","Rebel units may spawn <when at war>"],
+		"uniques": ["[+100]% XP gained from combat <for [Military] units> <during a Golden Age>","[+1] Happiness from each type of luxury resource","All healing effects doubled <for [Military] units>","[+2 Gold, +2 Food] from [Plantation] tiles [in all cities]","Rebel units may spawn <when at war>"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
