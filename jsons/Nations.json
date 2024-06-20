@@ -680,6 +680,39 @@
 		"uniques": ["[+2 Production, +1 Food] from every [Pasture]", "Cities are razed [3] times as fast", "Starts with [Animal Husbandry]","\"Borrows\" city names from other civilizations in the game", "Receive triple Gold from Barbarian encampments and pillaging Cities", "When conquering an encampment, earn [30] Gold and recruit a Barbarian unit", "Notified of new Barbarian encampments", "When defeating a [Barbarian] unit, earn [5] Gold and recruit it","[+15]% unhappiness from the number of cities"],
 		"cities": ["Attila's Court"],
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
-    }
+    },
+	{
+		"name": "Gran Colombia",
+		"leaderName": "Simón Bolívar",
+		"adjective": ["Gran Colombian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+
+		
+	      "startIntroPart1": "Greetings, noble leader. I am Simón Bolívar, known as El Libertador, the liberator of South America. With courage and unwavering resolve, I led the charge for independence across vast lands, uniting people under the banner of freedom. Today, we stand on the threshold of greatness once more, ready to forge a new destiny for Gran Colombia.",
+        	"startIntroPart2": "In this journey, we shall face many challenges, from the rugged Andes to the lush plains and dense jungles. Our strength lies in unity, resilience, and the unwavering spirit of our people. Together, we will build a prosperous and powerful nation, where liberty and justice reign supreme. Let us march forward, with the vision of a unified and free South America guiding our every step. ¡Viva Gran Colombia!"
+
+
+
+		
+		"declaringWar": "Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you.",
+		"attacked": "Recourse to war is regrettable, but necessary, when dealing with vipers like you.",
+		"defeated": "Everything I have done, I did for the nation of Gran Colombia. I remain a patriot to the very end.",
+		"introduction": "I, President Simón Bolívar, welcome you to Gran Colombia.",
+		"neutralHello": "Excellent!",
+		"hateHello": "Tyrant!",
+		"tradeRequest": "I send to you a delegation of my finest horsemen. Will you let them in?",
+		
+		"outerColor": [0,0,170],
+		"innerColor": [255,221,0],
+		
+		"uniqueName": "Ejército Patriota",
+		"uniques": ["[+100]% XP gained from combat <for [Military] units> <during a Golden Age>",],
+		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
+			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
+			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
+			"Honda","Socorro","Mompós","Trujillo","Santa Fe de Antioquia","Pore","Cúcuta","Mariquita","San Fernando de Apure","Barquisimeto"]
+	},
 ]
 
