@@ -57,6 +57,7 @@ War by Nhor from <a href="https://thenounproject.com/browse/icons/term/war/" tar
 Colombia by Surya Lesmana from <a href="https://thenounproject.com/browse/icons/term/colombia/" target="_blank" title="Colombia Icons">Noun Project</a> (CC BY 3.0)
 Cowboy by ainul muttaqin from <a href="https://thenounproject.com/browse/icons/term/cowboy/" target="_blank" title="Cowboy Icons">Noun Project</a> (CC BY 3.0)
 Mexico by nakals from <a href="https://thenounproject.com/browse/icons/term/mexico/" target="_blank" title="Mexico Icons">Noun Project</a> (CC BY 3.0)
+plaza by Kevin from <a href="https://thenounproject.com/browse/icons/term/plaza/" target="_blank" title="plaza Icons">Noun Project</a> (CC BY 3.0)
 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
