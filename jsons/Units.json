@@ -506,5 +506,20 @@
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
 	},
+	{
+		"name": "Llanero",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Gran Colombia",
+		"movement": 5,
+		"strength": 37,
+		"cost": 200,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
 
 ]
