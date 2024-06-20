@@ -398,4 +398,14 @@
 		"maintenance": 1,
 		"requiredTech": "Theology"
 	},
+	{
+		"name": "Libertador’s Plaza",
+		"replaces": "Colosseum",
+		"uniqueTo": "Gran Colombia",
+		"happiness": 4,
+		"gold": 1,
+		"uniques": ["Gifts of Gold to City-States generate [+5]% more Influence"]
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
 ]
