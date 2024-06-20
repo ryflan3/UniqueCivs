@@ -27,8 +27,9 @@
     "hateYes": "Very well.",
     "uniqueName": "Isolationism",
     "uniques": [
-      "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-      "[+2 Culture] [in all cities]",
+      "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+      "[+3 Culture] [in all cities]",
+      "[+2 Gold,+2 Production,+1 Food] from [Fish] tiles [in all cities]",
       "[-70]% Gold from Great Merchant trade missions",
       "[-50]% [Gold] from Trade Routes"
     ],
@@ -67,9 +68,9 @@
     "hateYes": "Very well.",
     "uniqueName": "This is Sparta",
     "uniques": [
-      "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
-      "[+2 Production] [in all cities]",
-      "Free [Melee] appears <upon adopting [All]>",
+      "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+      "[+3 Production] [in all cities]",
+      "Upon capturing a city, receive [2] times its [Culture] production as [Culture] immediately",
       "[+50]% City-State Influence degradation",
     ],
     "cities": [
