@@ -714,5 +714,69 @@
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
 			"Honda","Socorro","Mompós","Trujillo","Santa Fe de Antioquia","Pore","Cúcuta","Mariquita","San Fernando de Apure","Barquisimeto"]
 	},
+	{
+    "name": "Cherokee",
+    "leaderName": "Pathkiller",
+    "adjective": ["Cherokee"],
+    "startBias": "Forest",
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "Osiyo, noble leader. I am Pathkiller, chief of the Cherokee. Our roots run deep in these lands, nurtured by the wisdom of our ancestors and the spirit of our people.",
+    "startIntroPart2": "Together, we will walk the path of harmony and strength, embracing the future while honoring our sacred traditions. Our warriors are fierce, our culture rich, and our resolve unbreakable. Let us guide the Cherokee to a new dawn, where our legacy will shine brightly for all time.",
+
+    "declaringWar": "The spirit of the Cherokee rises against your aggression. Prepare for our fierce resistance.",
+    "attacked": "You strike at the heart of the Cherokee? We will defend our sacred land with every breath.",
+    "defeated": "Though our bodies may fall, the spirit of the Cherokee will endure through the ages.",
+    "introduction": "I am Pathkiller, chief of the Cherokee. Our people are the keepers of the land, wise and resilient.",
+    "neutralHello": "Greetings. The Cherokee walk the path of peace and wisdom.",
+    "hateHello": "Your actions have betrayed our trust. The Cherokee will not forget this.",
+    "tradeRequest": "The Cherokee are open to fair trade. What do you bring to the table?",
+
+    "outerColor": [30, 144, 255], 
+    "innerColor": [139, 69, 19],   
+    "uniqueName": "",
+    "uniques":["[+2 Faith, +1 Food, +1 Culture] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+10]% boost to great person generation","[+1 Culture] from [Luxury resource] tiles [in all cities]","[+25]% Culture cost of natural border growth [in all cities]"],
+    
+       "cities": [
+        "New Echota",
+        "Chota",
+        "Echota",
+        "Toqua",
+        "Tugaloo",
+        "Tanasi",
+        "Coosa",
+        "Etowah",
+        "Keowee",
+        "Nikwasi",
+        "Tellico",
+        "Hiawassee",
+        "Hiwassee",
+        "Kituwa",
+        "Oconaluftee",
+        "Ustanali",
+        "Great Tellico",
+        "Citico",
+        "Cowee",
+        "Chestoa"
+    ],
+
+    "spyNames": [
+        "Sequoyah",
+        "Nanyehi",
+        "Dragging Canoe",
+        "Oconostota",
+        "Attakullakulla",
+        "Tsiyu Gansini",
+        "Duwali",
+        "Watie",
+        "John Ross",
+        "Stand Watie",
+        "Ridge",
+        "Major Ridge",
+        "Wilma Mankiller",
+        "Nancy Ward"
+    ]
+},
+
 ]
 
