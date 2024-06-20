@@ -29,7 +29,7 @@
     "uniques": [
       "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
       "[+3 Culture] [in all cities]",
-      "[+2 Gold,+2 Production,+1 Food] from [Fish] tiles [in all cities]",
+      "[+2 Gold, +2 Production, +1 Food] from [Fish] tiles [in all cities]",
       "[-70]% Gold from Great Merchant trade missions",
       "[-50]% [Gold] from Trade Routes"
     ],
