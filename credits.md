@@ -55,6 +55,7 @@ great wall by Eucalyp from <a href="https://thenounproject.com/browse/icons/term
 Bomber by Eliricon from <a href="https://thenounproject.com/browse/icons/term/bomber/" target="_blank" title="Bomber Icons">Noun Project</a> (CC BY 3.0)
 War by Nhor from <a href="https://thenounproject.com/browse/icons/term/war/" target="_blank" title="War Icons">Noun Project</a> (CC BY 3.0)
 Colombia by Surya Lesmana from <a href="https://thenounproject.com/browse/icons/term/colombia/" target="_blank" title="Colombia Icons">Noun Project</a> (CC BY 3.0)
+Cowboy by ainul muttaqin from <a href="https://thenounproject.com/browse/icons/term/cowboy/" target="_blank" title="Cowboy Icons">Noun Project</a> (CC BY 3.0)
 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
