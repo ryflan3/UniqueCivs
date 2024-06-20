@@ -387,4 +387,15 @@
 			"[+1 Production, +1 Food] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
 	},
+	{
+		"name": "Hacienda",
+		"replaces": "Garden",
+		"uniqueTo": "Gran Colombia",
+		"gold": 2,
+		"food": 2,
+		"uniques": ["[+25]% Great Person generation [in this city]","[+1 Production, +1 Food] <if [Hacienda] is constructed in all [in all cities] cities>"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
 ]
