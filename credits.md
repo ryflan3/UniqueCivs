@@ -50,6 +50,11 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * silk https://thenounproject.com/icon/silk-4412164/ by Icongeek26
 * Ger https://thenounproject.com/icon/ger-5860006/ by laurens
 * man waving flag https://thenounproject.com/icon/man-waving-flag-642453/ by gran khoon lay
-* 
+*Incognito by Yudhi Restu Pebriyanto from <a href="https://thenounproject.com/browse/icons/term/incognito/" target="_blank" title="Incognito Icons">Noun Project</a> (CC BY 3.0)
+great wall by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
+Bomber by Eliricon from <a href="https://thenounproject.com/browse/icons/term/bomber/" target="_blank" title="Bomber Icons">Noun Project</a> (CC BY 3.0)
+War by Nhor from <a href="https://thenounproject.com/browse/icons/term/war/" target="_blank" title="War Icons">Noun Project</a> (CC BY 3.0)
+
+
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
