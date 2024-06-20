@@ -69,7 +69,7 @@
     "uniques": [
       "[+10]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
       "[+2 Production] [in all cities]",
-      "<Free [Melee] appears <upon adopting [All]>",
+      "Free [Melee] appears <upon adopting [All]>",
       "[+50]% City-State Influence degradation",
     ],
     "cities": [
