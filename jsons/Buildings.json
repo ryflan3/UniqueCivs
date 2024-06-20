@@ -408,4 +408,18 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
+	{
+		"name": "Green Corn Ceremonial Ground",
+		"food": 3,
+		"culture": 1,
+		"faith": 1,
+		"replaces": "Granary",
+		"uniqueTo": "Cherokee",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
 ]
