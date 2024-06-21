@@ -718,7 +718,7 @@
     "name": "Cherokee",
     "leaderName": "Pathkiller",
     "adjective": ["Cherokee"],
-    "startBias": "Forest",
+    "startBias": ["Forest"],
     "preferredVictoryType": "Cultural",
 
     "startIntroPart1": "Osiyo, noble leader. I am Pathkiller, chief of the Cherokee. Our roots run deep in these lands, nurtured by the wisdom of our ancestors and the spirit of our people.",
