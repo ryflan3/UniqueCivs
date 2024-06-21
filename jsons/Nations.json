@@ -734,7 +734,7 @@
 
     "outerColor": [30, 144, 255], 
     "innerColor": [139, 69, 19],   
-    "uniqueName": "",
+    "uniqueName": "Council of Peace",
     "uniques":["[+2 Faith, +1 Food, +1 Culture] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+10]% boost to great person generation","[+1 Culture] from [Luxury resource] tiles [in all cities]","[+25]% Culture cost of natural border growth [in all cities]"],
     
        "cities": [
@@ -776,7 +776,7 @@
         "Wilma Mankiller",
         "Nancy Ward"
     ]
-},
+}
 
 ]
 
