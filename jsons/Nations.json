@@ -737,7 +737,7 @@
     "uniqueName": "Council of Peace",
     "uniques":["[+2 Faith, +1 Food, +1 Culture] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship both parties gain a [+10]% boost to great person generation","[+1 Culture] from [Luxury resource] tiles [in all cities]","[+25]% Culture cost of natural border growth [in all cities]"],
     
-       "cities": [
+ "cities": [
         "New Echota",
         "Chota",
         "Echota",
@@ -757,9 +757,7 @@
         "Great Tellico",
         "Citico",
         "Cowee",
-        "Chestoa"
-    ],
-
+        "Chestoa"],
     "spyNames": [
         "Sequoyah",
         "Nanyehi",
@@ -774,8 +772,7 @@
         "Ridge",
         "Major Ridge",
         "Wilma Mankiller",
-        "Nancy Ward"
-    ]
+        "Nancy Ward"]
 }
 
 ]
