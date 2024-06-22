@@ -60,6 +60,7 @@ Mexico by nakals from <a href="https://thenounproject.com/browse/icons/term/mexi
 plaza by Kevin from <a href="https://thenounproject.com/browse/icons/term/plaza/" target="_blank" title="plaza Icons">Noun Project</a> (CC BY 3.0)
 Farm by Satawat Anukul from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
 Corn by Joel McKinney from <a href="https://thenounproject.com/browse/icons/term/corn/" target="_blank" title="Corn Icons">Noun Project</a> (CC BY 3.0)
+Writing by The Icon Z from <a href="https://thenounproject.com/browse/icons/term/writing/" target="_blank" title="Writing Icons">Noun Project</a> (CC BY 3.0)
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
