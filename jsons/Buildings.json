@@ -434,5 +434,16 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Sequoyah's Syllabary",
+		"replaces": "Library",
+		"uniqueTo": "Cherokee",
+		"science": 1,
+                "gold": 1,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	}
 ]
