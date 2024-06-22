@@ -421,5 +421,18 @@
 			"[+1 Food] from [Bananas] tiles [in this city]",
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Three Sisters Farm",
+		"replaces": "Workshop",
+		"uniqueTo": "Cherokee",
+		"cost": 100,
+		"maintenance": 1,
+		"production": 3,
+		"Food": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
 	}
 ]
