@@ -773,7 +773,39 @@
         "Major Ridge",
         "Wilma Mankiller",
         "Nancy Ward"]
-}
+},
+	{
+		"name": "Austria",
+		"leaderName": "Maria Theresa",
+		"adjective": ["Austrian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+
+        "startIntroPart1": "Noble and pious Queen Maria Theresa, Holy Roman Empress and sovereign of Austria, the people revere your grace. After the death of your father King Charles VI, you inherited the throne of Austria during difficult economic and military times. But you used your wisdom and unflinching determination to fend off your foes and resolve any obstacles to stability and prosperity. With your husband Francis Stephen at your side as co-ruler, you assured your place as Empress of the Holy Roman Empire. During your reign, you reformed Austria in several domains, as you gifted it with a powerful army, a stable economic model, and an improved educational system.",
+        "startIntroPart2": "O Great Queen, proud and dignified, by the will of God and the Divine right, can you reach the height of prosperity and splendor the kingdom of Austria deserves? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "What a fool ye are! Ye will end swiftly and miserably.",
+		"defeated": "The world is pitiful! There's no beauty in it, no wisdom. I am almost glad to go.",
+		"introduction": "The archduchess of Austria welcomes your Eminence to... Oh let's get this over with! I have a luncheon at four o'clock.",
+
+		"neutralHello": "Hello!",
+		"hateHello": "Oh, it's ye!",
+		"tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
+
+        "outerColor": [234,0,0],
+        "innerColor": [255,255,255],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Habsburg Diplomacy",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.","[-50]% Golden Age length","[+10]% Unhappiness from [Population] [in all cities] <when at war> <for [25] turns>"],
+		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
+			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
+			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
+			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
+		],
+        "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
+    }
 
 ]
 
