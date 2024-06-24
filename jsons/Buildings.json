@@ -445,5 +445,17 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
-	}
+	},
+	{
+		"name": "Mozart's Concert Hall",
+		"replaces": "Opera House",
+		"uniqueTo": "Austria",
+		"culture": 5,
+		"specialistSlots": {"Artist": 2},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
