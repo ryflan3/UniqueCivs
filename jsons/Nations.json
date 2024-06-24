@@ -798,7 +798,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Habsburg Diplomacy",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.","[-50]% Golden Age length","[+10]% Unhappiness from [Population] [in all cities] <when at war> <for [25] turns>"],
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.","[+20]% Happiness from luxury resources gifted by City-States","Resting point for Influence with City-States is increased by [10]","Gain [15] Influence with a [Melee] gift to a City-State","[+2 Production] [in all cities] <starting from the [Industrial era]>","[-50]% Golden Age length","[+10]% Unhappiness from [Population] [in all cities] <when at war> <for [25] turns>"],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
