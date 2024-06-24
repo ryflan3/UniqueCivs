@@ -1381,7 +1381,54 @@
 			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
 		],
         "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
-    }
+    },
+	{
+    "name": "Knights Templar",
+    "leaderName": "Hugues de Payens",
+    "adjective": ["Templar"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "I am Hugues de Payens, the first Grand Master of the Knights Templar. Our order stands resolute in our sacred mission.",
+    "startIntroPart2": "We are the shield and sword of Christendom, sworn to protect the faithful and uphold divine justice.",
+    "declaringWar": "By the Holy Cross, we shall cleanse the land of your heresy!",
+    "attacked": "Your aggression will be met with the full might of the Templars!",
+    "defeated": "Though we fall, our cause remains eternal. Deus vult.",
+    "introduction": "I am Hugues de Payens, Grand Master of the Knights Templar. Our faith and steel are unbreakable.",
+    "neutralHello": "Blessings upon you. How may we serve the greater good today?",
+    "hateHello": "Your actions have tested our patience. We are prepared for righteous retribution.",
+    "tradeRequest": "A fair exchange can strengthen our mutual interests. What do you propose?",
+    "outerColor": [255,255,255],
+    "innerColor": [139,0,0],
+    
+    "favoredReligion": "Christianity",
+    "uniqueName":"Holy Crusade",
+    "uniques": ["[+15]% Strength <for [All] units> <when above [250] [Faith]>","[+10]% Strength <for [All] units> <during the [Medieval era]>","Empire enters golden age <upon founding a Religion>","[+10]% of excess happiness converted to [Faith]","[-15]% Strength <for [All] units> <when below [50] [Faith]>"],
+
+
+	"cities": [
+
+        "Acre",
+        "Cyprus",
+        "Rhodes",
+        "Malta",
+        "Lisbon",
+        "Venice",
+        "Tortosa",
+        "Montfort",
+        "Arwad",
+        "Château Pèlerin",
+        "Ascalon",
+        "Beirut",
+        "Jaffa"
+    ],
+    "spyNames": [
+        "Brother Bertrand",
+        "Brother Guy",
+        "Brother Hugh",
+        "Brother Raymond",
+        "Brother Geoffrey"
+    ],
+},
 
 ]
 
