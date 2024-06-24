@@ -64,6 +64,9 @@ Writing by The Icon Z from <a href="https://thenounproject.com/browse/icons/term
 grand piano by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/grand-piano/" target="_blank" title="grand piano Icons">Noun Project</a> (CC BY 3.0)
 DNA by Alzam from <a href="https://thenounproject.com/browse/icons/term/dna/" target="_blank" title="DNA Icons">Noun Project</a> (CC BY 3.0)
 Maltese Cross by Avana Vana from <a href="https://thenounproject.com/browse/icons/term/maltese-cross/" target="_blank" title="Maltese Cross Icons">Noun Project</a> (CC BY 3.0)
+templar helmet by Damian Patrignani from <a href="https://thenounproject.com/browse/icons/term/templar-helmet/" target="_blank" title="templar helmet Icons">Noun Project</a> (CC BY 3.0)
+medieval style by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/medieval-style/" target="_blank" title="medieval style Icons">Noun Project</a> (CC BY 3.0)
+
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
