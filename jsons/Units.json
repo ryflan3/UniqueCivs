@@ -553,5 +553,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Templar Crossbowman",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Knights Templar",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 19,
+		"uniques": ["Earn [10]% of the damage done to [City] units as [Faith]"]
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
 
 ]
