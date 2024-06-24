@@ -469,4 +469,16 @@
 		"maintenance": 1,
 		"requiredTech": "Plastics"
 	},
+	{
+		"name": "Commandery",
+		"replaces": "Bank",
+		"uniqueTo": "Knights Templar",
+		"gold": 4,
+		"uniques":["[+3]% [Gold] from Trade Routes"],
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 ]
