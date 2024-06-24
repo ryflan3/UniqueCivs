@@ -458,4 +458,15 @@
 		"requiredTech": "Acoustics",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Gregor Mendel's Research Lab",
+		"replaces": "Research Lab",
+		"uniqueTo": "Austria",
+		"science": 5,
+		"percentStatBonus": {"science": 52},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Public School",
+		"maintenance": 1,
+		"requiredTech": "Plastics"
+	},
 ]
