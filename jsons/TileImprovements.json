@@ -92,7 +92,7 @@
 		"name": "Caravanserai",
 		"uniqueTo": "Safavid Dynasty",
 		"replaces": "Trading post"
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
 		"gold": 2,
 		"production": 1,
 		"food": 1,
