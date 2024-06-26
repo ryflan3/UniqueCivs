@@ -481,4 +481,13 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
+	{
+        "name": "East India Company", 
+        "cost": 125,
+        "gold": 4,
+        "isNationalWonder": true,
+        "uniques": ["[+1 Gold] from each Trade Route",
+            "Cost increases by [30] per owned city","Requires a [Market] in all cities"],
+        "requiredTech": "Guilds"
+    }
 ]
