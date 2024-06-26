@@ -1429,6 +1429,39 @@
         "Brother Geoffrey"
     ],
 },
+	{
+		"name": "Safavid Dynasty",
+		"leaderName": "Shah Abbas the Great",
+		"adjective": ["Safavid"],
+		"startBias": ["Mountain","Dessert"],
+		"preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "Welcome to the grand court of Shah Abbas the Great, ruler of the magnificent Safavid Dynasty. Under my reign, Iran has blossomed into a land of splendor and might.",
+    "startIntroPart2": "Let us embark on a journey of cultural brilliance and military prowess. The world shall marvel at the wonders of Isfahan and the strength of our empire.",
+    
+    "declaringWar": "You have chosen to face the wrath of Shah Abbas and the mighty Safavid warriors? Prepare for a battle you'll not soon forget!",
+    "attacked": "Your aggression is noted, but the spirit of Iran is unbreakable. We shall rise from the ashes and retaliate with ferocity!",
+    "defeated": "Though I step back today, the legacy of Abbas the Great and the Safavid Dynasty will endure. This is not the end, but a new beginning.",
+    "introduction": "I am Shah Abbas the Great, the beacon of Iran's cultural and military brilliance. Our empire thrives with art, trade, and unmatched warriors.",
+    "neutralHello": "Greetings from the illustrious Safavid Empire. May our dealings be as fruitful as the bazaars of Isfahan.",
+    "hateHello": "Your presence is like a thorn in the silk of our empire. Tread carefully, for Shah Abbas's patience is wearing thin.",
+    "tradeRequest": "The finest treasures of Iran are at your disposal. Let us trade and forge a path to mutual prosperity."
+
+
+
+        "outerColor": [64, 224, 208],
+        "innerColor": [255, 215, 0],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "Silk and Steel",
+		"uniques": ["[+3 Gold, +1 Happiness, +2 Culture] from all [World] buildings","[+3 Gold, +1 Happiness, +2 Culture] from all [National] buildings","[+10]% Production when constructing [World] buildings [in all cities]","[+10]% Production when constructing [National] buildings [in all cities]","[+15]% Strength <for [Gunpowder] units>","[+1 Gold, +2 Faith] <in cities following our religion>","[-40]% [Production] <when number of [Happiness] is less than [1]>"],
+		"cities": ["Isfahan", "Tabriz", "Qazvin", "Mashhad", "Shiraz", "Tehran", "Kashan", "Yazd",
+               "Hamadan", "Kerman", "Ardabil", "Bandar Abbas", "Kermanshah", "Zanjan", "Rasht",
+               "Qom", "Khorramabad", "Ahvaz", "Gorgan", "Urmia", "Karaj", "Najafabad", "Sabzevar",
+               "Sanandaj", "Birjand", "Shushtar", "Neyshabur", "Kashmar", "Damghan", "Semnan"
+              ],
+    "spyNames": ["Tahmasp", "Ismail", "Safi", "Sam Mirza", "Soltan Ali", "Farhad Beg", "Imam-Quli", "Gowhar Shad", "Mir Emad", "Mirza Shah"],
+    },
 
 ]
 
