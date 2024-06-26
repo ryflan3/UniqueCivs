@@ -572,7 +572,7 @@
 		"name": "Camel Archer",
 		"unitType": "Archery",
 		"replaces": "Knight",
-		"uniqueTo": "Safavid Dynasty",
+		"uniqueTo": "Arabia",
 		"movement": 4,
 		"strength": 17,
 		"rangedStrength": 21,
@@ -587,7 +587,7 @@
         {
 		"name": "Zamburak",
 		"unitType": "Archery",
-		"replaces": "Camel Archer",
+		"replaces": "Knight",
 		"uniqueTo": "Safavid Dynasty",
 		"movement": 5,
 		"strength": 17,
