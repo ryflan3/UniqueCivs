@@ -568,5 +568,35 @@
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
 	},
-
+	{
+		"name": "Camel Archer",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": ["Arabia","Safavid Dynasty"],
+		"movement": 4,
+		"strength": 17,
+		"rangedStrength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "arrow"
+	},
+        {
+		"name": "Zamburak",
+		"unitType": "Archery",
+		"replaces": "Camel Archer",
+		"uniqueTo": "Safavid Dynasty",
+		"movement": 5,
+		"strength": 17,
+		"rangedStrength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Melee]>"],
+		"attackSound": "arrow"
+	},
 ]
