@@ -69,7 +69,8 @@ medieval style by Eucalyp from <a href="https://thenounproject.com/browse/icons/
 Crossbow by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/crossbow/" target="_blank" title="Crossbow Icons">Noun Project</a> (CC BY 3.0)
 Lion by Ben Didier from <a href="https://thenounproject.com/browse/icons/term/lion/" target="_blank" title="Lion Icons">Noun Project</a> (CC BY 3.0)
 Camel by Nicky Spencer from <a href="https://thenounproject.com/browse/icons/term/camel/" target="_blank" title="Camel Icons">Noun Project</a> (CC BY 3.0)
-
+Black Powder Musket by Jarem Frye from <a href="https://thenounproject.com/browse/icons/term/black-powder-musket/" target="_blank" title="Black Powder Musket Icons">Noun Project</a> (CC BY 3.0)
+Horse by hanan faour from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
