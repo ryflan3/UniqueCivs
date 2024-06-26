@@ -599,4 +599,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Melee]>"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Qizilbash",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Safavid Dynasty",
+		"movement": 5,
+		"strength": 37,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking",
+			"[+15]% Strength <vs [Mounted]>"],
+		"attackSound": "horse"
+	},
 ]
