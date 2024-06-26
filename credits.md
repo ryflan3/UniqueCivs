@@ -67,6 +67,7 @@ Maltese Cross by Avana Vana from <a href="https://thenounproject.com/browse/icon
 templar helmet by Damian Patrignani from <a href="https://thenounproject.com/browse/icons/term/templar-helmet/" target="_blank" title="templar helmet Icons">Noun Project</a> (CC BY 3.0)
 medieval style by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/medieval-style/" target="_blank" title="medieval style Icons">Noun Project</a> (CC BY 3.0)
 Crossbow by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/crossbow/" target="_blank" title="Crossbow Icons">Noun Project</a> (CC BY 3.0)
+Lion by Ben Didier from <a href="https://thenounproject.com/browse/icons/term/lion/" target="_blank" title="Lion Icons">Noun Project</a> (CC BY 3.0)
 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
