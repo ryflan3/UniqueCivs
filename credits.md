@@ -68,6 +68,7 @@ templar helmet by Damian Patrignani from <a href="https://thenounproject.com/bro
 medieval style by Eucalyp from <a href="https://thenounproject.com/browse/icons/term/medieval-style/" target="_blank" title="medieval style Icons">Noun Project</a> (CC BY 3.0)
 Crossbow by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/crossbow/" target="_blank" title="Crossbow Icons">Noun Project</a> (CC BY 3.0)
 Lion by Ben Didier from <a href="https://thenounproject.com/browse/icons/term/lion/" target="_blank" title="Lion Icons">Noun Project</a> (CC BY 3.0)
+Camel by Nicky Spencer from <a href="https://thenounproject.com/browse/icons/term/camel/" target="_blank" title="Camel Icons">Noun Project</a> (CC BY 3.0)
 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
