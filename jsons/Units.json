@@ -572,7 +572,7 @@
 		"name": "Camel Archer",
 		"unitType": "Archery",
 		"replaces": "Knight",
-		"uniqueTo": "Arabia",
+		"uniqueTo": "Arabia","Safavid Dynasty",
 		"movement": 4,
 		"strength": 17,
 		"rangedStrength": 21,
