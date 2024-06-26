@@ -565,7 +565,7 @@
             },
             {
                 "name": "National Defense Complete",
-                "uniques": ["[+50]% Production when constructing [cityStrength] buildings [in all cities]","[+50]% Production when constructing [Castle] buildings [in all cities]","[+60]% Production when constructing [Bomb Shelter] buildings [in all cities]","[+15]% City Strength from defensive buildings","[Gold] cost of purchasing [cityStrength] buildings [-50]%"]
+                "uniques": ["[+50]% Production when constructing [Walls] buildings [in all cities]","[+50]% Production when constructing [Castle] buildings [in all cities]","[+50]% Production when constructing [Arsenal] buildings [in all cities]","[+50]% Production when constructing [Military Base] buildings [in all cities]","[+60]% Production when constructing [Bomb Shelter] buildings [in all cities]","[+15]% City Strength from defensive buildings","[Gold] cost of purchasing [Walls] buildings [-50]%","[Gold] cost of purchasing [Castle] buildings [-50]%","[Gold] cost of purchasing [Arsenal] buildings [-50]%","[Gold] cost of purchasing [Military Base] buildings [-50]%"],
             }
         ]
     }
