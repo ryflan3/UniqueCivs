@@ -5,5 +5,12 @@
         "milestones": ["Complete [6] Policy branches", "Build [Utopia Project]"],
         "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+         {
+	"name": "Economic",
+        "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
+        "milestones": ["Build [World's Gold Mines]","Build [World's Diamond Mines]","Build [World Stock Market]","Build [World Bank]"],
+        "victoryString": "You have taken over the World Economy with overwhelming economic power and monopolised the world's precious resources to show off your authority and bend the world to your will.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     }
 ]
