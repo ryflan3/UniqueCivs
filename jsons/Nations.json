@@ -1488,6 +1488,37 @@
 		"uniques": ["[+100]% [Gold] [in capital]","[+40]% of excess happiness converted to [Gold]","Gifts of Gold to City-States generate [+35]% more Influence","Free [Merchant of Venice] appears <after discovering [Optics]>","[-15]% Production when constructing [Land] units [in all cities]","Cannot build [Settler] units"],
 		"cities": ["Venice"]
 	},
+	{
+		"name": "The Maya",
+		"leaderName": "Pacal",
+		"adjective": ["mayan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Pacal",
+
+        "startIntroPart1": "Kneel before King Pacal the Great, son of the gods and protector of the Palenque domain! After your kingdom has been harassed for years by neighboring rivals, you struck back at the enemies of your people, defeating each of them and sacrificing their leaders as a retribution to the insults made to your ancestors. Your wisdom and hard will not only restored the glory of Palenque, but turned it into a magnificient city, as your people built the greatest monuments and architecture the world has ever known.",
+        "startIntroPart2": "Absolute King, your people need you to save the great Mayan culture and knowledge. Will you be able to read the movement of the stars, and find in the heavens the power to repel any foes? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "A sacrifice unlike all others must be made!",
+		"attacked": "Muahahahahahaha!",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Greetings, wayward one. I am known as Pacal.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
+
+		"neutralHello": "A fine day, it helps you.",
+		"outerColor": [198, 141, 99],
+		"innerColor": [24, 63, 66],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Long Count",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.","Free Social Policy <every [100] turns> <(modified by game speed)>","Free Technology] <every [110] turns> <(modified by game speed)>","[+1 Food] from [Farm] tiles [in all cities]","[-1 Food, -1 Production] from [Lumber mill] tiles [in all cities]",
+ 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
+		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
+			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
+			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
+			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
+        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+    },
 
 ]
 
