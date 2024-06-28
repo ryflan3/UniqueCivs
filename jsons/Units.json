@@ -639,4 +639,19 @@
 		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
 			"Can instantly construct a [Customs house] improvement <by consuming this unit>","Double movement in [Coast]","Unbuildable","Uncapturable"]
 	},
+	{
+		"name": "Atlatlist",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 9,
+		"cost": 36,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Construction",
+		"replaces": "Archer",
+		"uniqueTo": "The Maya",
+		"uniques": ["[+15]% Strength <vs [Mounted]>"]
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
 ]
