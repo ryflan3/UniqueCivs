@@ -537,4 +537,16 @@
 		"requiredTech": "Pottery",
 		"uniques": ["Hidden when religion is disabled"]
 	},
+	{
+		"name": "El Caracol",
+		"replaces": "Observatory",
+		"uniqueTo": "The Maya",
+		"maintenance": 0,
+		"science": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"uniques": ["Must be next to [Mountain]"],
+		"requiredTech": "Astronomy"
+	},
 ]
