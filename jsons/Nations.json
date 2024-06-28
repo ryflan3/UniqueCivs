@@ -1462,6 +1462,32 @@
               ],
     "spyNames": ["Tahmasp", "Ismail", "Safi", "Sam Mirza", "Soltan Ali", "Farhad Beg", "Imam-Quli", "Gowhar Shad", "Mir Emad", "Mirza Shah"],
     },
+	{
+		"name": "Venice",
+		"leaderName": "Enrico Dandolo",
+		"adjective": ["Venetian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		
+    "startIntroPart1": "Salutations, I am Doge Enrico Dandolo of the illustrious Republic of Venice. Though I rose to power in the twilight of my years, age has not dulled my wit nor my ambition. Amidst the tumultuous tides of instability, I steered Venice through the storm with unmatched cunning. By aligning with the Fourth Crusade, I deftly reclaimed our lost territories, using the Crusaders as pawns in our grand game. The sacking of Constantinople was not merely a victory but a masterstroke that expanded Venetian influence and secured my legacy for eternity.",
+    "startIntroPart2": "Now, the Serenissima calls upon me once more to lead her to new heights. Will I craft a legacy of unrivaled trade, or shall I wield diplomacy to subdue our foes? Join me, as we weave the tapestry of a civilization destined to endure the ages.",
+    
+    "declaringWar": "Your time is up, my adversary. Venice will triumph!",
+    "attacked": "Ah, you reveal your hand too soon, my rival!",
+    "defeated": "A miscalculation, but Venice will rise again.",
+    "introduction": "Welcome to Venice, the jewel of the Adriatic. I am Doge Enrico Dandolo.",
+    "neutralHello": "Greetings from the heart of Venetian splendor.",
+    "hateHello": "You dare approach me? State your business quickly.",
+    "tradeRequest": "Consider this offer carefully; it won't stand for long."
+
+
+		"outerColor": [105,34,172],
+		"innerColor": [255,254,231],
+		"uniqueName": "Ducats of Power",
+		"uniques": ["[+100]% [Gold] [in capital]","[+40]% of excess happiness converted to [Gold]","Gifts of Gold to City-States generate [+35]% more Influence","Receive free [Merchant of Venice] when you discover [Optics]","[-15]% Production when constructing [Land] units [in all cities]","Cannot build [Settler] units"],
+		"cities": ["Venice"]
+	},
 
 ]
 
