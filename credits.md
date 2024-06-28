@@ -72,6 +72,11 @@ Camel by Nicky Spencer from <a href="https://thenounproject.com/browse/icons/ter
 Black Powder Musket by Jarem Frye from <a href="https://thenounproject.com/browse/icons/term/black-powder-musket/" target="_blank" title="Black Powder Musket Icons">Noun Project</a> (CC BY 3.0)
 Horse by hanan faour from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
 desert camp by Circlon Tech from <a href="https://thenounproject.com/browse/icons/term/desert-camp/" target="_blank" title="desert camp Icons">Noun Project</a> (CC BY 3.0)
+carbon by Nithinan Tatah from <a href="https://thenounproject.com/browse/icons/term/carbon/" target="_blank" title="carbon Icons">Noun Project</a> (CC BY 3.0)
+gold mine by Arya Icons from <a href="https://thenounproject.com/browse/icons/term/gold-mine/" target="_blank" title="gold mine Icons">Noun Project</a> (CC BY 3.0)
+global economy by Suci Cahyani from <a href="https://thenounproject.com/browse/icons/term/global-economy/" target="_blank" title="global economy Icons">Noun Project</a> (CC BY 3.0)
+World Bank by Anwar Hossain from <a href="https://thenounproject.com/browse/icons/term/world-bank/" target="_blank" title="World Bank Icons">Noun Project</a> (CC BY 3.0)
+
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
