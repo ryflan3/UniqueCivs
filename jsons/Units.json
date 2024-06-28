@@ -615,4 +615,28 @@
 			"[+15]% Strength <vs [Mounted]>"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Great Galleass",
+		"replaces": "Galleass",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Venice",
+		"movement": 4,
+		"strength": 19,
+		"rangedStrength": 22,
+		"cost": 110,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"uniques": ["[-2] Movement <in [Ocean] tiles>","Double movement in [Coast]","Can move immediately once bought"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Merchant of Venice",
+		"uniqueTo": "Venice",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>","Double movement in [Coast]","Unbuildable","Uncapturable"]
+	},
 ]
