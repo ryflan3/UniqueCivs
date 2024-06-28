@@ -1485,7 +1485,7 @@
 		"outerColor": [105,34,172],
 		"innerColor": [255,254,231],
 		"uniqueName": "Ducats of Power",
-		"uniques": ["[+100]% [Gold] [in capital]","[+40]% of excess happiness converted to [Gold]","Gifts of Gold to City-States generate [+35]% more Influence","Receive free [Merchant of Venice] when you discover [Optics]","[-15]% Production when constructing [Land] units [in all cities]","Cannot build [Settler] units"],
+		"uniques": ["[+100]% [Gold] [in capital]","[+40]% of excess happiness converted to [Gold]","Gifts of Gold to City-States generate [+35]% more Influence","Free [Merchant of Venice] appears <after discovering [Optics]>","[-15]% Production when constructing [Land] units [in all cities]","Cannot build [Settler] units"],
 		"cities": ["Venice"]
 	},
 
