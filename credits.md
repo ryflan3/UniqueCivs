@@ -77,6 +77,7 @@ gold mine by Arya Icons from <a href="https://thenounproject.com/browse/icons/te
 global economy by Suci Cahyani from <a href="https://thenounproject.com/browse/icons/term/global-economy/" target="_blank" title="global economy Icons">Noun Project</a> (CC BY 3.0)
 World Bank by Anwar Hossain from <a href="https://thenounproject.com/browse/icons/term/world-bank/" target="_blank" title="World Bank Icons">Noun Project</a> (CC BY 3.0)
 Rialto Bridge by Azam Ishaq from <a href="https://thenounproject.com/browse/icons/term/rialto-bridge/" target="_blank" title="Rialto Bridge Icons">Noun Project</a> (CC BY 3.0)
+Maya pyramid by Alvaro Cabrera from <a href="https://thenounproject.com/browse/icons/term/maya-pyramid/" target="_blank" title="Maya pyramid Icons">Noun Project</a> (CC BY 3.0)
 
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
