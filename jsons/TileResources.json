@@ -83,12 +83,5 @@
 		"improvement": "Fishing Boats",
 		"uniques": ["Generated on every [6] tiles <in [{Featureless} {Coast}] tiles>"]
 	},
-	 {
-        "name": "Antiquity Site", 
-        "resourceType": "Bonus",
-        "revealedBy": "Archaeology",
-        "terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Snow"],
-        "improvement": "Archaeological Dig",
-        "uniques": ["Generated on every [300] tiles"]
-    },
+	 
 ]
