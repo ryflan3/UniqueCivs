@@ -101,4 +101,12 @@
 		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
 	},
+	{
+                "name": "Canal",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Flood plains","Beach"],
+		"turnsToBuild": 20,
+		"techRequired": "Geoengineering",
+		"uniques": ["Can be built outside your borders", "Turn this tile into a [Coast] tile", "Pillaging this improvement yields approximately [+50 Gold]"],
+		"shortcutKey": "T"
+        },
 ]
