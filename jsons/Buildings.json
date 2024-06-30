@@ -561,4 +561,16 @@
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
 	},
+	{
+		
+		"name": "Huey Teocalli",
+		"replaces": "Colosseum",
+		"uniqueTo": "Aztecs",
+		"maintenance": 1,
+		"culture": 1,
+		"happiness": 3,
+		"faith": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
 ]
