@@ -654,4 +654,17 @@
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Jaguar",
+		"unitType": "Sword",
+		"uniqueTo": "Aztecs",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"obsoleteTech": "Steel",
+		"promotions": ["[Jaguar] ability","Woodsman"],
+		"upgradesTo": "Longswordsman",
+		"attackSound": "nonmetalhit"
+	},
 ]
