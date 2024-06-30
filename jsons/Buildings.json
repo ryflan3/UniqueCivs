@@ -549,4 +549,16 @@
 		"uniques": ["Must be next to [Mountain]"],
 		"requiredTech": "Astronomy"
 	},
+	{
+		"name": "Floating Gardens",
+		"replaces": "Water Mill",
+		"uniqueTo": "Aztecs",
+		"food": 3,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]","[+2 Food] from [River] tiles [in this city]","Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},
 ]
