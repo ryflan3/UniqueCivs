@@ -1575,7 +1575,7 @@
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","[+50]% [Faith] from every [Faith Building]"],
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","[+50]% [Faith] from every [Faith Building]","[+2 Gold, +1 Culture] from every [Faith Building]","[-15]% [Production] [in all cities] <when at war>"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
