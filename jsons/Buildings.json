@@ -585,4 +585,10 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
+	{
+		"name": "Cathedral of World Unity",
+		"cost": 1000,
+		"requiredTech": "Theology",
+		"uniques": ["Hidden when [Religious] Victory is disabled","Cannot be hurried","Can only be built <in [Holy] cities>","Hidden when religion is disabled"]
+	},
 ]
