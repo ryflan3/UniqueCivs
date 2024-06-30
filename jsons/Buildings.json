@@ -573,4 +573,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
+	{
+		
+		"name": "Hippodrome",
+		"replaces": "Colosseum",
+		"uniqueTo": "Byzantium",
+		"maintenance": 1,
+		"culture": 1,
+		"happiness": 3,
+		 "gold": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
 ]
