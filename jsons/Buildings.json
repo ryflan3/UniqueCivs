@@ -591,4 +591,17 @@
 		"requiredTech": "Theology",
 		"uniques": ["Hidden when [Religious] Victory is disabled","Cannot be hurried","Can only be built <in [Holy] cities>","Hidden when religion is disabled"]
 	},
+	{
+		"name": "Cothon",
+		"replaces": "Harbor",
+		"uniqueTo": "Carthage",
+		"cost": 120,
+		"gold": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+
 ]
