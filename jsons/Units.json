@@ -694,7 +694,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","[-25]% Strength <vs cities> <when attacking>","[+15]% Strength <vs [Melee] units>]","[+10]% Strength <when defending>"],
+		"uniques": ["Can move after attacking","[-25]% Strength <vs cities> <when attacking>","[+15]% Strength <vs [Melee] units>","[+10]% Strength <when defending>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
