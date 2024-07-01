@@ -698,4 +698,35 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	{
+		"name": "Quinquereme",
+		"unitType": "Melee Water",
+		"uniqueTo": "Carthage",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 16,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "African Forest Elephant",
+		"unitType": "Mounted",
+		"uniqueTo": "Carthage",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 16,
+		"cost": 100,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"promotions": ["Great Generals II"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-15]% Strength <vs cities> <when attacking>",
+			"[-15]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "elephant"
+	},
 ]
