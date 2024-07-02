@@ -1703,6 +1703,39 @@
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],
         "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"]
     },
+	{
+		"name": "Celts",
+		"leaderName": "Boudicca",
+		"adjective": ["celtic"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		"personality": "Boudicca",
+
+        "startIntroPart1": "May glory and honor always be upon you, Warrior Queen! In a time dominated by men, you successfully claimed the throne and the power, but also valiantly defied the mighty Roman Empire. Punished and humiliated by the hand of the Roman bloody invaders, you united your people and led a terrible revolt, to seek revenge. Many legions fell under your fierce attacks and you burned the city of London with your anger. While the Romans still kept ownership of your land after your final defeat, your actions nonetheless showed Rome that this land could never be fully conquered, making Nero himself consider to withdraw all troops and leaving Britain forever.",
+        "startIntroPart2": "O raging lioness, will you lead the Celts again under the glory of your name, to spread the fires of liberty, and achieve a final victory? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your balls!",
+		"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
+		"introduction": "I am Boudicca, Queen of the Celts. Let no-one underestimate me!",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+
+		"neutralHello": "God has given good to you.",
+
+		"hateHello": "Well?",
+        "outerColor": [12,75,25],
+        "innerColor": [157,172,255],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Druidic Lore",
+		"uniques": ["[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
+			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>","Gain a free [Pantheon] belief <upon founding a Pantheon>","[+1 Faith, +1 Culture] from every [Quarry]","[+15]% Strength <when below [100] HP>","[-15]% [Happiness] <in [non-[Garrisoned]] cities>"],
+		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
+			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
+			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
+			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Falmouth","Lorient"],
+	      "spyNames": ["Crìsdean", "Siobhán", "Seamus", "Ffion", "Pádraig", "Deirdre", "Mr. Quinn", "Éadaoin", "Alwyn", "Col Ceathar"]
+    },
 
 ]
 
