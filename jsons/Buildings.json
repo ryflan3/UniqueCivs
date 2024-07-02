@@ -603,5 +603,17 @@
 			"Connects trade routes over water","Must be next to [Coast]"],
 		"requiredTech": "Compass"
 	},
+	{
+		"name": "Hanse",
+		"replaces": "Bank",
+		"uniqueTo": "Germany",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["+2 Production] from each Trade Route"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 
 ]
