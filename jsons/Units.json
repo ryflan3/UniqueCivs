@@ -729,4 +729,32 @@
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
 	},
+	{
+		"name": "Landsknecht",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Germany",
+		"movement": 2,
+		"strength": 18,
+		"cost": 45,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought" ],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"	
+	},
+	{
+		"name": "Panzer",
+		"unitType": "Armored",
+		"uniqueTo": "Germany",
+		"replaces": "Tank",
+		"movement": 6,
+		"strength": 80,
+		"cost": 375,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking","[1] additional attacks per turn","No defensive terrain bonus"],
+		"attackSound": "tankshot"
+	},
 ]
