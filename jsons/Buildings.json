@@ -625,5 +625,19 @@
 			"New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
+	{
+		"name": "Seowon",
+		"replaces": "Public School",
+		"uniqueTo": "Korea",
+		"science": 4,
+		"culture": 1,
+		"faith": 1,
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "University",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Scientific Theory"
+	},
 
 ]
