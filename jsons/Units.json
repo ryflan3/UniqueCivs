@@ -787,4 +787,34 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Turtle Ship",
+		"unitType": "Melee Water",
+		"replaces": "Caravel",
+		"uniqueTo": "Korea",
+		"movement": 5,
+		"strength": 37,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Cannot enter ocean tiles","[+15]% Strength <when defending>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Hwach'a",
+		"unitType": "Siege",
+		"replaces": "Trebuchet",
+		"uniqueTo": "Korea",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 27,
+		"cost": 120,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["No defensive terrain bonus","[+15]% Strength <vs [Melee] units>"],
+		"attackSound": "throw"
+	},
 ]
