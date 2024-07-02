@@ -1674,6 +1674,35 @@
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
         "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
     },
+	{
+		"name": "Korea",
+		"leaderName": "Sejong",
+		"adjective": ["Korean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Sejong",
+
+        "startIntroPart1": "Greetings to you, King Sejong the Great, heir of the Choson Dynasty! Prosperity and benevolence towards the common man are the principles of your reign, and made of you the most beloved Korean king. You always aimed to provide a fair and equal society for all your people, and also to favor knowledge and technological discoveries. Your wisdom and intelligence imbued all the Korean society, and the scholars of the Jade Hall developed Korea's first written language, Hangul, sharing further literature and science to the people after centuries of darkness.",
+        "startIntroPart2": "Wise Sejong, will you gift your people with the radiance of harmony and knowledge to dispel the darkness once again? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Jip-hyun-jun (Hall of Worthies) will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
+		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
+		"defeated": "Now the question is who will protect my people. A dark age has come.",
+		"introduction": "Welcome to the palace of Choson, stranger. I am the learned King Sejong, who looks after his great people.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you",
+		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
+		"outerColor": [27,33,96],
+		"innerColor": [255,0,0],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Scholars of the Jade Hall",
+        "uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital","[+15]% [Production] <in [Coastal] cities>","[-15]% [Production] <in [All] cities> <without [Strategic]>"],
+		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
+			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
+			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],
+        "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"]
+    },
 
 ]
 
