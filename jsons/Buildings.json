@@ -664,5 +664,15 @@
 			"[+3 Gold] from [Oil] tiles [in this city]", "[+3 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
+	{
+		"name": "Hammam",
+		"replaces": "Colosseum",
+		"uniqueTo": "Arabia",
+		"maintenance": 1,
+		"happiness": 4,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
 
 ]
