@@ -773,4 +773,18 @@
 		"promotions": ["[Cossack] ability"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Russian Winter Guard",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Russia",
+		"movement": 2,
+		"strength": 52,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["[+20]% Strength <in [Friendly Land] tiles>"],
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
 ]
