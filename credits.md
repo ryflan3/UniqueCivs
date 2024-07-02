@@ -80,6 +80,7 @@ Rialto Bridge by Azam Ishaq from <a href="https://thenounproject.com/browse/icon
 Maya pyramid by Alvaro Cabrera from <a href="https://thenounproject.com/browse/icons/term/maya-pyramid/" target="_blank" title="Maya pyramid Icons">Noun Project</a> (CC BY 3.0)
 aztec pyramid by Andi Nur Abdillah from <a href="https://thenounproject.com/browse/icons/term/aztec-pyramid/" target="_blank" title="aztec pyramid Icons">Noun Project</a> (CC BY 3.0)
 Hippodrome by P Thanga Vignesh from <a href="https://thenounproject.com/browse/icons/term/hippodrome/" target="_blank" title="Hippodrome Icons">Noun Project</a> (CC BY 3.0)
+hanok by 최재영 from <a href="https://thenounproject.com/browse/icons/term/hanok/" target="_blank" title="hanok Icons">Noun Project</a> (CC BY 3.0)
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
