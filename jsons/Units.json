@@ -848,4 +848,18 @@
 		"uniques": ["Can move after attacking"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "War Elephant",
+		"unitType": "Archery",
+		"uniqueTo": "India",
+		"replaces": "Chariot Archer",
+		"movement": 4,
+		"strength": 12,
+		"rangedStrength": 14,
+		"cost": 70,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"attackSound": "elephant"
+	},
 ]
