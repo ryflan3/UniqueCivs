@@ -1,4 +1,9 @@
 [
+	{
+        "name": "Atheism",
+        "type": "Pantheon",
+        "uniques": ["[-500 Faith] [in all cities]","[+1 Science] from every [Faith Building] <during the [Ancient era]>","[+2 Science] from every [Faith Building] <during the [Classical era]>","[+2 Science] from every [Faith Building] <during the [Medieval era]>","[+2 Science] from every [Faith Building] <during the [Renaissance era]>","[+3 Science] from every [Faith Building] <during the [Industrial era]>","[+4 Science] from every [Faith Building] <during the [Modern era]>"]
+    },
 {
         "name": "Earth Mother",
         "type": "Pantheon",
