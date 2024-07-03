@@ -84,3 +84,4 @@ hanok by 최재영 from <a href="https://thenounproject.com/browse/icons/term/ha
 Kukri by Kemesh Maharjan from <a href="https://thenounproject.com/browse/icons/term/kukri/" target="_blank" title="Kukri Icons">Noun Project</a> (CC BY 3.0)
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
+Canoe by Yoyon Pujiyono from <a href="https://thenounproject.com/browse/icons/term/canoe/" target="_blank" title="Canoe Icons">Noun Project</a> (CC BY 3.0)
