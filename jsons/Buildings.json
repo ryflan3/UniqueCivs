@@ -674,5 +674,18 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
+	{
+		"name": "Mughal Fort",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "India",
+		"cityStrength": 8,
+		"cityHealth": 30,
+		"culture": 3,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+2 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
 
 ]
