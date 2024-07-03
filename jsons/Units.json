@@ -862,4 +862,18 @@
 		"obsoleteTech": "Chivalry",
 		"attackSound": "elephant"
 	},
+	{
+		"name": "Gurkha Soldier",
+		"unitType": "Gunpowder",
+		"uniqueTo": "India",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 27,
+		"uniques": ["[+15]% Strength <in [Hill] tiles>"],
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 ]
