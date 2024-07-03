@@ -876,4 +876,32 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Maori Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Polynesia",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 10,
+		"uniques":["[0] Movement point cost to disembark","[0] Movement point cost to embark"],
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Haka War Dance"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Waka War Canoe",
+		"unitType": "Melee Water",
+		"uniqueTo": "Polynesia",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 14,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Never appears as a Barbarian unit","Double movement in [Coast]"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
 ]
