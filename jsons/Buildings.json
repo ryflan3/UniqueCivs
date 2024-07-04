@@ -709,5 +709,16 @@
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Metal Casting"
 	},
+	{
+		"name": "Stele",
+                "replaces": "Monument",
+		"uniqueTo": "Ethiopia",
+		"culture": 2,
+		"faith": 4,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
+	},
 
 ]
