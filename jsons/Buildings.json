@@ -696,5 +696,18 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
+	{
+		"name": "Jade Workshop",
+		"replaces": "Workshop",
+		"uniqueTo": "China",
+		"maintenance": 2,
+		"production": 3,
+		"gold": 1,
+		"uniques":["[+50]% Yield from every [Luxury]"],
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
 
 ]
