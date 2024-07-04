@@ -933,4 +933,19 @@
 		"promotions": ["Drill I","Home Sweet Home"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Oromo Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Ethiopia",
+		"movement": 6,
+		"strength": 31,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[1] additional attacks per turn", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
 ]
