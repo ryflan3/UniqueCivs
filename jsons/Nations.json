@@ -1857,6 +1857,39 @@
         "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 
     },
+	{
+		"name": "Ethiopia",
+		"leaderName": "Haile Selassie",
+		"adjective": ["ethiopian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Haile Selassie",
+
+        "startIntroPart1": "May God bless you, wise and righteous Emperor of Ethiopia, Haile Selassie. As one of Ethiopia's greatest rulers and a spiritual leader of the Rastafarian movement, your good influence on diplomacy and political cooperation are praised throughout the world. You created Ethiopia's first written constitution, and favorized democracy for years to come, your great wisdom making Ethiopia enter as a charter member in the United Nations. Always aiming to reform and modernize your nation, you changed Ethiopian destiny for the best.",
+        "startIntroPart2": "Revered King, your knowledge and intelligence are required once again to protect your people from many threats in the world. Will you secure peace and stability, with benevolence and authority, in the radiance of the Kebra Nagast? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "I have tried all other avenues, but yet you persist in this madness. I hope, for your sake, your end is swift.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+		"defeated": "God and history will remember your actions this day. I hope you are ready for your impending judgment.",
+		"introduction": "A thousand welcomes to our fair nation. I am Selassie, the Ras Tafari Makonnen and Emperor of Ethiopia, your humble servant.",
+		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good.",
+
+		"neutralHello": "Welcome.",
+
+		"hateHello": "What do you want?",
+
+        "outerColor": [18, 66, 22],
+        "innerColor": [255, 56, 56],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Spirit of Adwa",
+		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+1 Faith] from every [Palace]","[+1 Food, +1 Production] from [{Hill} {Farm}] tiles [in all cities]", "[+1 Food, +1 Gold] from [Plantation] tiles [in all cities]","[+1 Culture] [in all cities] <when at war>","[+100]% maintenance costs <in cities with a [Courthouse]>"],
+		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
+			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
+			"Nekemte","Asella","Dila","Adigrat","Debre Markos","Kombolcha","Debre Tabor","Sebeta",
+			"Shire","Ambo","Negele Arsi","Gambela","Ziway","Weldiya"],
+        "spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Demeke", "Mulu Alem", "Abebech", "Zema", "Mihret", "Kebedech", "Alemnesh"]
+    },
 
 ]
 
