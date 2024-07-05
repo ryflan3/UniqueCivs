@@ -948,4 +948,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[1] additional attacks per turn", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Naresuan's Elephant",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Siam",
+		"movement": 4,
+		"strength": 27,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "elephant"
+	},
 ]
