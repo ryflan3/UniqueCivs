@@ -720,5 +720,18 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	},
+	{
+		"name": "Wat",
+		"replaces": "University",
+		"uniqueTo": "Siam",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 4,
+		"requiredBuilding": "Library",
+		"uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
 
 ]
