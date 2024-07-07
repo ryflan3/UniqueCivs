@@ -782,5 +782,16 @@
 			"Connects trade routes over water","[+3 Gold] from each Trade Route"],
 		"requiredTech": "Compass"
 	},
+	{
+		"name": "Mud Pyramid Mosque",
+		"replaces": "Temple",
+		"uniqueTo": "Songhai",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"faith": 4,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
+	},
 
 ]
