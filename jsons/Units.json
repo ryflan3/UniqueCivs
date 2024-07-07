@@ -991,4 +991,21 @@
 		"promotions": ["[Janissary] ability"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Sipahi",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "The Ottomans",
+		"movement": 5,
+		"strength": 27,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>",
+			"[+1] Sight"],
+		"promotions": ["[Sipahi] ability","Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
 ]
