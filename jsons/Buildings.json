@@ -793,5 +793,15 @@
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy"
 	},
+	{
+		"name": "Grand Bazaar",
+		"replaces": "Market",
+		"uniqueTo": "The Ottomans",
+		"gold": 4,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 30},
+		"requiredTech": "Currency"
+	},
 
 ]
