@@ -1042,7 +1042,7 @@
 		"outerColor": [84,26,26],
 		"innerColor": [255,168,168],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Seven Cities of Gold",
+		"uniqueName": "Age of Discovery",
 		"uniques": ["[+400 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it)","[+50]% Golden Age length","[+2] Sight <for [All] units>","[+10]% Strength <on foreign continents>","[+20]% maintenance costs <for [Military] units>"]
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
@@ -1882,7 +1882,7 @@
         "innerColor": [255, 56, 56],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Spirit of Adwa",
+		"uniqueName": "Legacy of the Lion",
 		"uniques": ["[+15]% Strength <when fighting units from a Civilization with more Cities than you>","[+1 Faith] from every [Palace]","[+1 Food, +1 Production] from [{Hill} {Farm}] tiles [in all cities]", "[+1 Food, +1 Gold] from [Plantation] tiles [in all cities]","[+1 Culture] [in all cities] <when at war>","[+100]% maintenance costs <in cities with a [Courthouse]>"],
 		"cities": ["Addis Ababa","Harar","Adwa","Lalibela","Gondar","Axum","Dire Dawa","Bahir Dar","Adama",
 			"Mek'ele","Awasa","Jimma","Jijiga","Dessie","Debre Berhan","Shashamane","Debre Zeyit","Sodo","Hosaena",
