@@ -962,4 +962,19 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "elephant"
 	},
+	{
+		"name": "Mandekalu Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Songhai",
+		"movement": 4,
+		"strength": 22,
+		"cost": 110,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "horse"
+	},
 ]
