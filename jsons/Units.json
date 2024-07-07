@@ -977,4 +977,18 @@
 		"uniques": ["Can move after attacking"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Janissary",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "The Ottomans",
+		"movement": 3,
+		"strength": 26,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"promotions": ["[Janissary] ability"],
+		"attackSound": "shot"
+	},
 ]
