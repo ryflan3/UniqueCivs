@@ -1008,4 +1008,19 @@
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
 	},
+	{
+		"name": "Slinger",
+		"unitType": "Archery",
+		"uniqueTo": "Inca",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["Slinger Withdraw"],
+		"attackSound": "arrow"
+	},
 ]
