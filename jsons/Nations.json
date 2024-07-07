@@ -642,7 +642,7 @@
     "neutralYes": "Agreed.",
     "hateNo": "Absolutely not!",
     "hateYes": "Very well.",
-    "uniqueName": "This is Sparta",
+    "uniqueName": "Spartan Supremacy",
     "uniques": [
       "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
       "[+3 Production] [in all cities]",
@@ -1101,7 +1101,7 @@
 		"outerColor": [216, 120, 0],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Dutch East India Company",
+		"uniqueName": "Gilded Prosperity",
 		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away","[+50]% [Gold] from Trade Routes", "[+2 Food] from each Trade Route","[+50]% [Gold] <during a Golden Age>","[+15]% [Science] <during a Golden Age>", "[-2 Happiness] [in capital] <after founding a Pantheon>","[-5 Happiness] [in capital] <after founding a religion>"],
 		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "Den Haag", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
         "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
@@ -1574,7 +1574,7 @@
 		"outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Patriarchate of Constantinople",
+		"uniqueName": "Heaven's Favor",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","[+50]% [Faith] from every [Faith Building]","[+2 Gold, +1 Culture] from every [Faith Building]","[-15]% [Production] [in all cities] <when at war>"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
@@ -1788,7 +1788,7 @@
         "innerColor": [255, 163, 71],
 
 		"favoredReligion": "Hinduism",
-		"uniqueName": "Population Growth",
+		"uniqueName": "Infinite Abundance",
 		"uniques": ["[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]","[+50]% Yield from every [Grassland]","[+20]% [Food] <in [Coastal] cities>","[-25]% construction time for [All] improvements","[-25]% [Gold] <in [non-[in all cities connected to capital]] cities>","[-25]% [Culture] <in [non-[in all cities connected to capital]] cities>"],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
@@ -1848,7 +1848,7 @@
         "innerColor": [255,255,255],
 
 		"favoredReligion": "Taoism",
-		"uniqueName": "Art of War",
+		"uniqueName": "Mandate of Heaven",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[+1 Culture] from every [Science Building]","[+15]% Strength <for [Ranged] units>","[-25]% maintenance cost for buildings [in all cities]","[-25]% Yield from every [non-[Resource]]"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
@@ -1911,13 +1911,107 @@
 		"outerColor": [245, 230, 55],
 		"innerColor": [177, 8, 3],
 		"favoredReligion": "Buddhism",
-		"uniqueName": "Father Governs Children",
+		"uniqueName": "Jewel of the East",
 		"uniques": ["[+2 Food, +1 Production] from [River] tiles [in all cities]","[+15]% Strength <for [Mounted] units>","[+2 Culture, +1 Happiness] from every [Wonder]","Allied City-States will occasionally gift Great People","[-10]% [Science] [non-[Capital]]","[-10]% [Production] [non-[Capital]]"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
 			"Ban Phai","Loci","Khon Kaen","Surin"],
         "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
+    },
+	{
+		"name": "Songhai",
+		"leaderName": "Askia",
+		"adjective": ["Songhai"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Askia",
+
+        "startIntroPart1": "Askia, leader of the Songhai people and greatest of all, may God watch your path towards glory! Songhai was under the rule of the mighty West African state of Mali until the middle of the 14th century. Great King Sunni Ali Ber fought for independance, and showed to all Songhai's power, by conquering territories and repelling many foes who sought to destroy the rising kingdom. Ultimately, conquest of the wealthy cities of Timbuktu and Jenne made Songhai an empire with enough economic power to survive for a century, until the empire bowed down before foes with advanced technology - muskets against spearmen.",
+        "startIntroPart2": "King Askia, your people know there's still hope, that the hour of revenge is coming. Give them wealth and power, give them mighty weapons of iron and fire, to destroy any foe, for Songhai to revive! Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You are an abomination to heaven and earth, the chief of ignorant savages! You must be destroyed!",
+		"attacked": "Fool! You have doomed your people to fire and destruction!",
+		"defeated": "We have been consumed by the fires of hatred and rage. Enjoy your victory in this world - you shall pay a heavy price in the next!",
+		"introduction": "I am Askia of the Songhai. We are a fair people - but those who cross us will find only destruction. You would do well to avoid repeating the mistakes others have made in the past.",
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Can I interest you in this deal?",
+		"outerColor": [214, 145, 19],
+		"innerColor": [90, 0, 10],
+		"favoredReligion": "Islam",
+		"uniqueName": "Citadel of Gold",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion","[+1 Culture, +1 Science] from every [Science Building]","[+100]% Yield from every [Gold Ore]","[+25]% Yield from every [Mine]","[-2] Happiness from each type of luxury resource"],
+		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
+			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
+			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
+        "spyNames": ["Ahmadou", "Ayub", "Badru", "Bokhari", "Guedado", "Adhiambo", "Chinaka", "Laila", "Mariama", "Oni"]
+    },
+	{
+		"name": "Inca",
+		"leaderName": "Pachacuti",
+		"adjective": ["Incan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Pachacuti",
+
+        "startIntroPart1": "King Pachacuti Sapa Inca, maker of the world and ruler of Tawantinsuyu and the Inca people, your loyal subjects greet you! In the beginning, the small state of Cusco already showed the Incans were promised for greatness. They won many wars against powerful enemies, relentlessly crushing any army that dared oppose them, and forged a mighty empire stretching from Ecuador to Chile, the greatest ever seen in pre-Columbian America. Not just undaunted soldiers, Inca people were accomplished builders and artists, their magnificient and unequalled culture still fascinating the world today.",
+        "startIntroPart2": "O Emperor Pachacuti, honor your name of 'Earth Shaker'! Will you once again summon the power of the earth to unite all Incan people under the protection of Sapa Inca, the Son of the Sun? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"introduction": "How are you? You stand before Pachacuti Inca Yupanqui.",
+
+		"neutralHello": "How are you doing?",
+		"hateHello": "What do you want now?",
+		"tradeRequest": "The Incan people offer this fair trade.",
+
+        "outerColor": [255,184,33],
+        "innerColor": [3,115,86],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Children of the Sun",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills",
+			"[-50]% maintenance on road & railroads",
+			"No Maintenance costs for improvements in [Hill] tiles","[+15]% [Production] [in all cities connected to capital]","[+10]% [Food] [in capital]","[+100]% Yield from every [Quarry]","[-15]% [Science] [in all cities] <before discovering [Scientific Theory]>"],
+		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
+			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
+			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
+			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Purutu", "Ozcollo"]
+    },
+	{
+		"name": "The Ottomans",
+		"leaderName": "Suleiman I",
+		"adjective": ["Ottoman"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Suleiman I",
+
+        "startIntroPart1": "O Great Sultan Suleiman, may the God bless you! You are revered for your power, wealth and generosity, and you truly deserves to be called the 'Magnificent'! The Ottoman Empire was born in Bithynia, starting as a small country in Eastern Anatolia in 12th century, then expanded to west into Anatolia. Over the next century, your people vanquished the empire of Byzantium, annexing Turkey and the Balkans, and smartly assimilating all wonders and knowledge of the Byzantine civilization. In the mid 15th century, the Ottomans added Constantinople to their empire, establishing a strategic link between Europe and the Middle East. The Empire would continue to expand for centuries reaching North Africa, Middle East and Eastern Europe at its height, but brutally disappeared in the chaos of the first world war, in early 20th century.",
+        "startIntroPart2": "Mighty Caliph, your people ask you to build again the Empire, to the level of power and glory it once achieved, and beyond! Will you revive the Ottoman golden age? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
+		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of the Empire.",
+		"defeated": "Ruin! Ruin! Istanbul becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "From the magnificence of Topkapi, the Ottoman nation greets you, stranger! I'm Suleiman, Kayser-I Rum, and I bestow upon you my welcome!",
+		"neutralHello": "Greetings!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Let us do business! Would you be interested?",
+
+        "outerColor": [245,248,185],
+        "innerColor": [18,84,30],
+
+		"favoredReligion": "Islam",
+		"uniqueName": "Empire of Sail and Song",
+		"uniques": ["[-66]% maintenance costs <for [Water] units>",
+			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>","[+2 Happiness] [in all cities]","[+10]% [Science] <during a Golden Age>","[+10]% [Culture] <during a Golden Age>","[+50]% maintenance costs <for [Military] units>"],
+		"cities": ["Istanbul","Edirne","Ankara","Bursa","Konya","Samsun","Gaziantep","Diyarbakır","Izmir","Kayseri","Malatya",
+			"Mersin","Antalya","Zonguldak","Denizli","Ordu","Muğla","Eskişehir","Inebolu","Sinop","Adana","Artvin",
+			"Bodrum","Eregli","Silifke","Sivas","Amasya","Marmaris","Trabzon","Erzurum","Urfa","Izmit","Afyonkarahisar",
+			"Bitlis","Yalova"],
+        "spyNames": ["Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem", "Nurbanu"]
     },
 
 ]
