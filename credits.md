@@ -83,6 +83,9 @@ Hippodrome by P Thanga Vignesh from <a href="https://thenounproject.com/browse/i
 hanok by 최재영 from <a href="https://thenounproject.com/browse/icons/term/hanok/" target="_blank" title="hanok Icons">Noun Project</a> (CC BY 3.0)
 Kukri by Kemesh Maharjan from <a href="https://thenounproject.com/browse/icons/term/kukri/" target="_blank" title="Kukri Icons">Noun Project</a> (CC BY 3.0)
 Cowboy by Luis Prado from <a href="https://thenounproject.com/browse/icons/term/cowboy/" target="_blank" title="Cowboy Icons">Noun Project</a> (CC BY 3.0)
-The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
+The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License.
+Elephant by Pekosman from <a href="https://thenounproject.com/browse/icons/term/elephant/" target="_blank" title="Elephant Icons">Noun Project</a> (CC BY 3.0)
+Incan religion by Dabid J. Pascual from <a href="https://thenounproject.com/browse/icons/term/incan-religion/" target="_blank" title="Incan religion Icons">Noun Project</a> (CC BY 3.0)
+
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
 Canoe by Yoyon Pujiyono from <a href="https://thenounproject.com/browse/icons/term/canoe/" target="_blank" title="Canoe Icons">Noun Project</a> (CC BY 3.0)
